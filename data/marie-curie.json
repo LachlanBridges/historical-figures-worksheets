@@ -1,0 +1,62 @@
+{
+  "name": "Marie Curie",
+  "birth": "1867",
+  "death": "1934 (aged 66)",
+  "origin": "Poland / France",
+  "role": "Scientist and Nobel Prize winner",
+  "what_did": "Marie Curie studied radioactivity, a powerful type of energy.\nShe discovered two new elements: polonium and radium.\nShe was the first woman to win a Nobel Prize, and the only person to win in two different sciences.",
+  "why_matters": "Curie opened new doors in science, especially for women.\nHer research helped develop X-rays and cancer treatments.\nShe showed that hard work and curiosity can change the world.",
+  "questions": [
+    {
+      "q": "What did Marie Curie study?",
+      "options": [
+        "Dinosaurs",
+        "Radioactivity",
+        "Plants",
+        "Stars"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What prize did Marie Curie win?",
+      "options": [
+        "Nobel Prize",
+        "Olympic Medal",
+        "Oscar",
+        "Pulitzer Prize"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What element did Curie discover?",
+      "options": [
+        "Gold",
+        "Oxygen",
+        "Polonium",
+        "Iron"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Marie Curie from?",
+      "options": [
+        "Germany",
+        "France and Poland",
+        "Italy",
+        "Russia"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What tool did her work help improve?",
+      "options": [
+        "Microscope",
+        "Compass",
+        "X-ray machine",
+        "Thermometer"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "She carried test tubes of glowing radium in her pockets!"
+}

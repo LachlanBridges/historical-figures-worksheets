@@ -1,0 +1,62 @@
+{
+  "name": "Guru Nanak",
+  "birth": "1469",
+  "death": "1539 (aged 70)",
+  "origin": "Punjab region (now in Pakistan)",
+  "role": "Spiritual teacher and founder of Sikhism",
+  "what_did": "Guru Nanak traveled widely to spread his message of one God, equality, and kindness.\nHe taught that all people — no matter their caste, religion, or background — are equal.\nHe started the Sikh faith, which focuses on service, honesty, and devotion.",
+  "why_matters": "Guru Nanak’s teachings helped form a new religion: Sikhism.\nHe encouraged peace between religions and stood up against unfair treatment.\nHis ideas are still followed by millions of Sikhs around the world.",
+  "questions": [
+    {
+      "q": "What religion did Guru Nanak start?",
+      "options": [
+        "Buddhism",
+        "Islam",
+        "Hinduism",
+        "Sikhism"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What did Guru Nanak believe about people?",
+      "options": [
+        "Some are better than others",
+        "Only kings matter",
+        "Everyone is equal",
+        "Only his friends were right"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Guru Nanak from?",
+      "options": [
+        "China",
+        "Greece",
+        "Punjab",
+        "Africa"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is Sikhism about?",
+      "options": [
+        "Power and riches",
+        "Equality and service",
+        "Conquering land",
+        "Meditation only"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How did Guru Nanak spread his teachings?",
+      "options": [
+        "Through writing poems only",
+        "By staying in one village",
+        "By traveling far and wide",
+        "By fighting battles"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "When Guru Nanak was born, some say a bright light filled the room!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Ned Kelly",
+  "birth": "1854",
+  "death": "1880 (aged 25)",
+  "origin": "Australia",
+  "role": "Bushranger and outlaw",
+  "what_did": "Ned Kelly was a famous outlaw in Australia.\nHe robbed banks and fought the police.\nHe wore homemade armor in his final battle and became a legend to some people.",
+  "why_matters": "Ned Kelly is one of Australia’s most talked-about figures.\nSome see him as a rebel who stood up for the poor.\nOthers think he broke the law and caused harm.",
+  "questions": [
+    {
+      "q": "What country was Ned Kelly from?",
+      "options": [
+        "England",
+        "Australia",
+        "New Zealand",
+        "Canada"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Ned Kelly wear in his final fight?",
+      "options": [
+        "A red coat",
+        "A suit of armor",
+        "A pirate hat",
+        "A cape"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Ned Kelly do?",
+      "options": [
+        "Became Prime Minister",
+        "Taught school",
+        "Robbed banks",
+        "Fought fires"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How do people remember Ned Kelly?",
+      "options": [
+        "As a hero or villain",
+        "As a scientist",
+        "As a farmer",
+        "As a king"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "How old was Ned Kelly when he died?",
+      "options": [
+        "25",
+        "45",
+        "60",
+        "18"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Kelly’s helmet is now on display in a museum!"
+}

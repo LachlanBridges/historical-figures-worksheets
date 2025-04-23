@@ -1,0 +1,62 @@
+{
+  "name": "Friedrich Nietzsche",
+  "birth": "1844",
+  "death": "1900 (aged 55)",
+  "origin": "Germany",
+  "role": "Philosopher and writer",
+  "what_did": "Nietzsche wrote about deep questions like truth, power, and meaning.\nHe said people should create their own values and live with courage.\nHe’s known for saying 'God is dead' and for inspiring later thinkers and artists.",
+  "why_matters": "Nietzsche’s ideas changed how people think about life and morality.\nHe challenged old beliefs and helped shape modern philosophy.\nHis work still sparks debate today.",
+  "questions": [
+    {
+      "q": "What did Nietzsche write about?",
+      "options": [
+        "Cooking and gardening",
+        "Science and math",
+        "Power and meaning",
+        "Dinosaurs and planets"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country was Nietzsche from?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Austria"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Nietzsche say people should do?",
+      "options": [
+        "Follow every rule",
+        "Create their own values",
+        "Sing every day",
+        "Travel the world"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What famous phrase is Nietzsche known for?",
+      "options": [
+        "'Life is a dream'",
+        "'God is dead'",
+        "'All is water'",
+        "'To be or not to be'"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of books did Nietzsche write?",
+      "options": [
+        "Adventure stories",
+        "Philosophy books",
+        "Cookbooks",
+        "Comic books"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Nietzsche loved music and once wanted to be a composer!"
+}

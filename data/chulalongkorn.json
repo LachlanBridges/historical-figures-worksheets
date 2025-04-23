@@ -1,0 +1,62 @@
+{
+  "name": "King Rama V – King Chulalongkorn",
+  "birth": "1853",
+  "death": "1910 (aged 57)",
+  "origin": "Thailand",
+  "role": "King and modernizer",
+  "what_did": "King Chulalongkorn helped modernize Thailand.\nHe ended slavery, improved schools and hospitals, and built railways.\nHe worked hard to keep Thailand free from being taken over by other countries.",
+  "why_matters": "King Rama V made big changes to help his people live better lives.\nHe is remembered as a wise and kind king who brought progress to Thailand.",
+  "questions": [
+    {
+      "q": "What big change did King Rama V make?",
+      "options": [
+        "He started slavery",
+        "He ended slavery",
+        "He built castles",
+        "He became a monk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did King Rama V build?",
+      "options": [
+        "Hospitals and railways",
+        "Tall towers",
+        "A zoo",
+        "Ships"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Why did people like King Rama V?",
+      "options": [
+        "He was very tall",
+        "He gave everyone money",
+        "He helped his people",
+        "He danced well"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Which country was King Rama V from?",
+      "options": [
+        "Thailand",
+        "Laos",
+        "Burma",
+        "Malaysia"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did King Rama V try to protect Thailand from?",
+      "options": [
+        "Storms",
+        "Being taken over",
+        "Earthquakes",
+        "Wild animals"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "People still bring flowers to his statue on Tuesdays to show respect!"
+}

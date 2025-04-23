@@ -1,0 +1,62 @@
+{
+  "name": "Sir Henry Parkes",
+  "birth": "1815",
+  "death": "1896 (aged 80)",
+  "origin": "England / Australia",
+  "role": "Politician and leader",
+  "what_did": "Sir Henry Parkes was a leader who helped bring the Australian colonies together.\nHe gave a famous speech about uniting as one nation.\nPeople call him the 'Father of Federation'.",
+  "why_matters": "Parkes helped create the idea of Australia as one country.\nHe believed people would be stronger if they worked together.\nHis vision led to the founding of modern Australia.",
+  "questions": [
+    {
+      "q": "What is Henry Parkes known as?",
+      "options": [
+        "King of Australia",
+        "Father of Federation",
+        "Poet of the Outback",
+        "Mayor of Sydney"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Parkes want the colonies to do?",
+      "options": [
+        "Fight each other",
+        "Build more trains",
+        "Join as one country",
+        "Move to England"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was he born?",
+      "options": [
+        "Australia",
+        "Scotland",
+        "England",
+        "Ireland"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did he give to inspire people?",
+      "options": [
+        "A flag",
+        "A big party",
+        "A famous speech",
+        "A gift"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why do we remember Parkes?",
+      "options": [
+        "He was funny",
+        "He made cool inventions",
+        "He helped create Australia’s federation",
+        "He sang in a band"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "There’s a whole town named Parkes in New South Wales — after him!"
+}

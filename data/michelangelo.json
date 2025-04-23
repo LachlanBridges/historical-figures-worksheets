@@ -1,0 +1,62 @@
+{
+  "name": "Michelangelo",
+  "birth": "1475",
+  "death": "1564 (aged 88)",
+  "origin": "Italy",
+  "role": "Artist and sculptor",
+  "what_did": "Michelangelo painted the ceiling of the Sistine Chapel and carved the statue of David.\nHe was a master at making art look alive and full of emotion.\nHe also worked as an architect and poet.",
+  "why_matters": "Michelangelo’s art is some of the most famous in the world.\nHe helped shape the Renaissance, a time of big changes in art and thinking.\nHis work still inspires artists today.",
+  "questions": [
+    {
+      "q": "What did Michelangelo paint?",
+      "options": [
+        "The Mona Lisa",
+        "The Sistine Chapel ceiling",
+        "Sunflowers",
+        "A spaceship"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What famous statue did he sculpt?",
+      "options": [
+        "The Thinker",
+        "Venus de Milo",
+        "David",
+        "The Little Mermaid"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of work did Michelangelo do?",
+      "options": [
+        "Builder",
+        "Artist and sculptor",
+        "Farmer",
+        "Inventor"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What time period did he help shape?",
+      "options": [
+        "The Ice Age",
+        "The Renaissance",
+        "The Industrial Age",
+        "The Space Age"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is Michelangelo famous?",
+      "options": [
+        "He built castles",
+        "He made amazing art that people still admire",
+        "He discovered electricity",
+        "He wrote fairy tales"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Michelangelo didn’t like painting — he thought of himself mostly as a sculptor!"
+}

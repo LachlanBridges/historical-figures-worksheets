@@ -1,0 +1,62 @@
+{
+  "name": "Abraham Lincoln",
+  "birth": "1809",
+  "death": "1865 (aged 56)",
+  "origin": "Kentucky, United States",
+  "role": "President and lawyer",
+  "what_did": "Lincoln was the 16th president of the United States.\nHe led the country during the Civil War and helped end slavery.\nHe gave the famous Gettysburg Address and was known for his honesty.",
+  "why_matters": "Lincoln helped unite a divided country and made sure all people could be free.\nHe is remembered as one of America’s greatest presidents.\nHis leadership helped shape the nation.",
+  "questions": [
+    {
+      "q": "Which number president was Lincoln?",
+      "options": [
+        "10th",
+        "16th",
+        "1st",
+        "20th"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What important thing did Lincoln help end?",
+      "options": [
+        "Slavery",
+        "The internet",
+        "Taxes",
+        "Farming"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What war did Lincoln lead during?",
+      "options": [
+        "World War I",
+        "The Civil War",
+        "The Cold War",
+        "The American Revolution"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What speech is Lincoln famous for?",
+      "options": [
+        "I Have a Dream",
+        "Gettysburg Address",
+        "Declaration of Independence",
+        "State of the Union"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Lincoln born?",
+      "options": [
+        "New York",
+        "Kentucky",
+        "Texas",
+        "California"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Lincoln was really tall — about 6 feet 4 inches — and wore a big top hat!"
+}

@@ -1,0 +1,69 @@
+name: Build & Release PDFs
+
+on:
+  push:
+    tags:
+      - 'latest'
+  workflow_dispatch:
+
+jobs:
+  build:
+    name: 📄 Build & Package PDFs
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: 📥 Checkout repo
+        uses: actions/checkout@v3
+
+      - name: 🛠 Install LaTeX and Python
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y texlive-full python3-venv jq
+          python3 -m venv .venv
+          .venv/bin/pip install --upgrade pip
+          .venv/bin/pip install -r requirements.txt
+
+      - name: 📄 Build PDFs
+        run: |
+          .venv/bin/python scripts/main.py build --all
+          .venv/bin/python scripts/main.py merge --with-toc --filename historical_figures_with_toc.pdf
+
+      - name: 🧼 Rename PDFs
+        run: |
+          mkdir -p release_pdfs
+          for json in data/*.json; do
+            base=$(basename "$json" .json)
+            pdf="output/pdf/$base.pdf"
+            if [ -f "$pdf" ]; then
+              title=$(jq -r .name "$json")
+              cp "$pdf" "release_pdfs/$title.pdf"
+            fi
+          done
+          cp output/pdf/compiled/historical_figures_with_toc.pdf "release_pdfs/Historical Figures (With TOC).pdf"
+
+      - name: 📤 Upload PDFs
+        uses: actions/upload-artifact@v4
+        with:
+          name: release-pdfs
+          path: release_pdfs/
+
+  release:
+    name: 🚀 GitHub Release
+    runs-on: ubuntu-latest
+    needs: build
+
+    steps:
+      - name: 📥 Download PDFs
+        uses: actions/download-artifact@v4
+        with:
+          name: release-pdfs
+          path: release_pdfs
+
+      - name: 🚀 Publish to GitHub Release
+        uses: softprops/action-gh-release@v1
+        with:
+          tag_name: latest
+          name: Latest Historical Figures
+          files: release_pdfs/*.pdf
+        env:
+          GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}

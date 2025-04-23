@@ -1,0 +1,62 @@
+{
+  "name": "Captain James Cook",
+  "birth": "1728",
+  "death": "1779 (aged 50)",
+  "origin": "England",
+  "role": "Explorer and mapmaker",
+  "what_did": "Captain Cook sailed the oceans and made detailed maps.\nHe explored places like Australia, New Zealand, and Hawaii.\nHe met many Indigenous peoples and brought back new knowledge to Europe.",
+  "why_matters": "Cook’s voyages helped people understand the world better.\nHis maps were used for many years.\nHe changed how Europe saw faraway lands.",
+  "questions": [
+    {
+      "q": "What was Cook’s job?",
+      "options": [
+        "Farmer",
+        "Explorer and mapmaker",
+        "Soldier",
+        "Pirate"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was Cook from?",
+      "options": [
+        "France",
+        "England",
+        "Spain",
+        "Germany"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where did Cook travel?",
+      "options": [
+        "Only Europe",
+        "Asia and Africa",
+        "Australia and the Pacific",
+        "Just America"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why were Cook’s maps important?",
+      "options": [
+        "They had treasure spots",
+        "They showed magical places",
+        "They helped sailors travel safely",
+        "They were painted gold"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Who did Cook meet on his travels?",
+      "options": [
+        "Robots",
+        "Aliens",
+        "Indigenous peoples",
+        "Vikings"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Cook’s crew were some of the first Europeans to eat kangaroo!"
+}

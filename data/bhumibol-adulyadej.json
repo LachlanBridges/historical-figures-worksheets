@@ -1,0 +1,62 @@
+{
+  "name": "Bhumibol Adulyadej (Rama IX)",
+  "birth": "1927",
+  "death": "2016 (aged 88)",
+  "origin": "Thailand",
+  "role": "King of Thailand",
+  "what_did": "King Bhumibol ruled Thailand for 70 years — longer than any other Thai king.\nHe worked to help farmers, improve schools, and build peace in the country.\nHe played music, took photos, and loved science.",
+  "why_matters": "King Bhumibol was deeply loved by the Thai people.\nHe used his ideas and kindness to make life better for many.\nHis long reign helped bring stability to Thailand.",
+  "questions": [
+    {
+      "q": "How long did King Bhumibol rule?",
+      "options": [
+        "20 years",
+        "50 years",
+        "70 years",
+        "10 years"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country was he king of?",
+      "options": [
+        "India",
+        "Thailand",
+        "Japan",
+        "Vietnam"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What hobbies did he enjoy?",
+      "options": [
+        "Dancing",
+        "Cooking",
+        "Music and photography",
+        "Car racing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of king was he?",
+      "options": [
+        "Cruel",
+        "Very rich only",
+        "Kind and helpful",
+        "Very quiet"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why do many people remember him with love?",
+      "options": [
+        "He built a palace",
+        "He helped the people",
+        "He made a TV show",
+        "He lived in the city"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "King Bhumibol composed jazz songs — and even played saxophone on the radio!"
+}

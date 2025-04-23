@@ -1,0 +1,62 @@
+{
+  "name": "Thomas Aquinas",
+  "birth": "1225",
+  "death": "1274 (aged 49)",
+  "origin": "Italy",
+  "role": "Philosopher and religious thinker",
+  "what_did": "Aquinas wrote big books that tried to explain faith using reason.\nHe asked deep questions like 'Does God exist?' and 'What is a good life?'\nHe used ideas from Aristotle to help understand religion better.",
+  "why_matters": "Aquinas helped bring together faith and reason.\nHis ideas became part of church teachings for hundreds of years.\nHe showed that thinking carefully is part of believing strongly.",
+  "questions": [
+    {
+      "q": "What did Aquinas write about?",
+      "options": [
+        "Plants and animals",
+        "Stars and space",
+        "Faith and reason",
+        "Maps and lands"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Aquinas from?",
+      "options": [
+        "France",
+        "Italy",
+        "England",
+        "Spain"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Aquinas use to explain religion?",
+      "options": [
+        "Magic",
+        "Dreams",
+        "Reason and logic",
+        "Poems"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Whose ideas did Aquinas use?",
+      "options": [
+        "Plato",
+        "Socrates",
+        "Aristotle",
+        "Ptolemy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What question did Aquinas ask?",
+      "options": [
+        "How to build roads?",
+        "Does God exist?",
+        "How to fight wars?",
+        "What is a triangle?"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Thomas Aquinas was so quiet as a boy, people called him 'the Dumb Ox' — but he became a genius!"
+}

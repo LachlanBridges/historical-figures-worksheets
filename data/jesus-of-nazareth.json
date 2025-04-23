@@ -1,0 +1,62 @@
+{
+  "name": "Jesus of Nazareth",
+  "birth": "Around 4 BCE",
+  "death": "Around 30 CE (aged ~33)",
+  "origin": "Judea (modern-day Israel/Palestine)",
+  "role": "Religious teacher and founder of Christianity",
+  "what_did": "Jesus taught about love, forgiveness, and the Kingdom of God.\nHe gathered followers, performed healings, and spoke in parables.\nHe was crucified by Roman authorities and Christians believe he rose from the dead three days later.",
+  "why_matters": "Jesus is the central figure of Christianity, one of the world’s largest religions.\nHis teachings shaped Western culture and ideas about kindness, justice, and sacrifice.\nMany people today still follow his message.",
+  "questions": [
+    {
+      "q": "Where was Jesus from?",
+      "options": [
+        "Greece",
+        "Judea",
+        "Egypt",
+        "Rome"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Jesus teach?",
+      "options": [
+        "Mathematics",
+        "Farming",
+        "Love and forgiveness",
+        "Sword fighting"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What happened to Jesus after he died, according to Christians?",
+      "options": [
+        "He stayed dead",
+        "He became a king",
+        "He rose from the dead",
+        "He sailed away"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Jesus important today?",
+      "options": [
+        "He built pyramids",
+        "He founded a religion",
+        "He discovered America",
+        "He ruled an empire"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of stories did Jesus often tell?",
+      "options": [
+        "Jokes",
+        "Parables",
+        "Poems",
+        "Songs"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Jesus was born in a stable because there was no room at the inn!"
+}

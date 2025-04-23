@@ -1,0 +1,62 @@
+{
+  "name": "Leonardo da Vinci",
+  "birth": "1452",
+  "death": "1519 (aged 67)",
+  "origin": "Italy",
+  "role": "Artist, inventor, and scientist",
+  "what_did": "Leonardo painted famous works like the Mona Lisa and The Last Supper.\nHe sketched ideas for flying machines, tanks, and robots.\nHe studied everything from anatomy to nature and machines.",
+  "why_matters": "Da Vinci showed that art and science can work together.\nHe was curious about everything and full of creative ideas.\nHis notebooks inspire inventors and artists to this day.",
+  "questions": [
+    {
+      "q": "What painting did Leonardo create?",
+      "options": [
+        "The Starry Night",
+        "The Mona Lisa",
+        "Sunflowers",
+        "The Scream"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What else did Leonardo do besides paint?",
+      "options": [
+        "Fight in wars",
+        "Cook food",
+        "Invent machines",
+        "Write novels"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Leonardo from?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Spain"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of machine did Leonardo imagine?",
+      "options": [
+        "Submarine",
+        "Washing machine",
+        "Spaceship",
+        "Flying machine"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "Why is Leonardo da Vinci remembered?",
+      "options": [
+        "He became king",
+        "He explored the Arctic",
+        "He was a great artist and inventor",
+        "He won many battles"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Leonardo wrote his notes backwards so others couldn’t read them easily!"
+}

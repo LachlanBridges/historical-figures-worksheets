@@ -1,0 +1,62 @@
+{
+  "name": "Napoleon Bonaparte",
+  "birth": "1769",
+  "death": "1821 (aged 51)",
+  "origin": "Corsica (France)",
+  "role": "General and emperor",
+  "what_did": "Napoleon rose quickly through the French army.\nHe became emperor of France and led many wars across Europe.\nHe made big changes to law and government, some of which are still used today.",
+  "why_matters": "Napoleon changed Europe forever with his wars and ideas.\nHe showed how one person could reshape nations.\nPeople still study his leadership and strategies.",
+  "questions": [
+    {
+      "q": "What country was Napoleon from?",
+      "options": [
+        "France",
+        "Spain",
+        "Italy",
+        "Germany"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Napoleon become?",
+      "options": [
+        "A king",
+        "A farmer",
+        "An emperor",
+        "A scientist"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Napoleon do?",
+      "options": [
+        "Led wars and changed laws",
+        "Built castles",
+        "Discovered America",
+        "Taught philosophy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Why do people study Napoleon?",
+      "options": [
+        "His paintings",
+        "His adventures in space",
+        "His leadership and strategies",
+        "His cooking recipes"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Napoleon born?",
+      "options": [
+        "Paris",
+        "Corsica",
+        "Rome",
+        "London"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Napoleon was actually taller than many people think — about average height for his time!"
+}

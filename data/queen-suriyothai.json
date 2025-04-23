@@ -1,0 +1,62 @@
+{
+  "name": "Queen Suriyothai",
+  "birth": "Around 1511",
+  "death": "1548 (aged ~37)",
+  "origin": "Ayutthaya, Thailand",
+  "role": "Queen and battlefield hero",
+  "what_did": "Queen Suriyothai bravely rode into battle to protect her husband, the king, during a war with Burma.\nShe wore armor and joined the fight on an elephant.\nShe gave her life to save the king and the kingdom.",
+  "why_matters": "She is remembered for her great courage and love for her family and country.\nHer story shows how Thai women have also been strong and heroic.",
+  "questions": [
+    {
+      "q": "What did Queen Suriyothai do in battle?",
+      "options": [
+        "Flew a plane",
+        "Fought on foot",
+        "Rode an elephant",
+        "Gave a speech"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Queen Suriyothai remembered?",
+      "options": [
+        "She became rich",
+        "She helped build schools",
+        "She gave her life in battle",
+        "She discovered a new land"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country did she fight to protect Thailand from?",
+      "options": [
+        "India",
+        "Vietnam",
+        "Burma",
+        "China"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Queen Suriyothai wear in battle?",
+      "options": [
+        "Armor",
+        "A dress",
+        "Jewels",
+        "A crown"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was Queen Suriyothai from?",
+      "options": [
+        "Sukhothai",
+        "Bangkok",
+        "Ayutthaya",
+        "Chiang Mai"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "There is a big statue and a movie made to honor her bravery!"
+}

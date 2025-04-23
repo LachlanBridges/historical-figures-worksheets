@@ -1,0 +1,62 @@
+{
+  "name": "Wolfgang Amadeus Mozart",
+  "birth": "1756",
+  "death": "1791 (aged 35)",
+  "origin": "Austria",
+  "role": "Composer and musician",
+  "what_did": "Mozart started writing music when he was just 5 years old.\nHe played concerts for kings and queens across Europe.\nHe wrote over 600 pieces of music, including symphonies, operas, and songs.",
+  "why_matters": "Mozart changed the world of music with his amazing talent.\nHis music is still played and loved today, hundreds of years later.\nHe showed how creativity can shine at any age.",
+  "questions": [
+    {
+      "q": "What did Mozart do?",
+      "options": [
+        "Paint pictures",
+        "Write music",
+        "Act in plays",
+        "Build castles"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How old was Mozart when he started writing music?",
+      "options": [
+        "5",
+        "12",
+        "20",
+        "30"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was Mozart from?",
+      "options": [
+        "Germany",
+        "Austria",
+        "France",
+        "Italy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who listened to Mozart play music?",
+      "options": [
+        "Only farmers",
+        "Kings and queens",
+        "Only children",
+        "Just his friends"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How many pieces of music did he write?",
+      "options": [
+        "100",
+        "200",
+        "400",
+        "Over 600"
+      ],
+      "answer_index": 3
+    }
+  ],
+  "fun_fact": "Mozart once wrote a song called 'A Musical Joke' to make people laugh!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Emily Dickinson",
+  "birth": "1830",
+  "death": "1886 (aged 55)",
+  "origin": "United States",
+  "role": "Poet",
+  "what_did": "Emily Dickinson wrote short, thoughtful poems about nature, life, and feelings.\nShe lived a quiet life and didn’t publish many poems while alive.\nAfter she died, people found hundreds of her poems — and she became famous.",
+  "why_matters": "Emily Dickinson changed how people thought poetry could look and sound.\nHer unique voice and deep thoughts helped shape American literature.\nHer poems are still read and loved today.",
+  "questions": [
+    {
+      "q": "What did Emily Dickinson write?",
+      "options": [
+        "Novels",
+        "Songs",
+        "Poems",
+        "Plays"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did she write about?",
+      "options": [
+        "Cars and machines",
+        "Nature and feelings",
+        "Dinosaurs",
+        "Math problems"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was she from?",
+      "options": [
+        "England",
+        "France",
+        "United States",
+        "Canada"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Was she famous during her life?",
+      "options": [
+        "Yes, she was a star",
+        "Only after she died",
+        "No one knows",
+        "She was a queen"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why are her poems special?",
+      "options": [
+        "They rhyme like songs",
+        "They are long stories",
+        "They are deep and use strange dashes",
+        "They are all jokes"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Emily Dickinson loved wearing white and often stayed inside her house, writing poems in secret."
+}

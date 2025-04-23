@@ -1,0 +1,42 @@
+{
+  "name": "Caroline Chisholm",
+  "birth": "1808",
+  "death": "1877 (aged 69)",
+  "origin": "England, later moved to Australia",
+  "role": "Helper of immigrants and women",
+  "what_did": "Caroline Chisholm helped poor immigrants and especially women coming to Australia.\nShe found them jobs, homes, and helped families stay together.\nShe worked hard to make life better for others.",
+  "why_matters": "Chisholm showed kindness and courage by helping people start new lives.\nShe is remembered as one of Australia's greatest helpers.",
+  "questions": [
+    {
+      "q": "Who did Chisholm help?",
+      "options": [
+        "Rich families",
+        "Immigrants and women",
+        "Movie stars",
+        "Kings and queens"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where did Caroline Chisholm work?",
+      "options": [
+        "England",
+        "Australia",
+        "France",
+        "China"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was she known for?",
+      "options": [
+        "Building ships",
+        "Helping people",
+        "Singing",
+        "Writing plays"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Caroline Chisholm once appeared on Australia’s five-dollar note!"
+}

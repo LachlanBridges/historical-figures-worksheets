@@ -1,0 +1,62 @@
+{
+  "name": "Karl Marx",
+  "birth": "1818",
+  "death": "1883 (aged 64)",
+  "origin": "Germany",
+  "role": "Philosopher and writer",
+  "what_did": "Karl Marx studied how people work, earn money, and live in society.\nHe believed that poor workers were treated unfairly and that one day they would rise up and change things.\nHe wrote a book called *The Communist Manifesto* to share his ideas.",
+  "why_matters": "Marx’s ideas have had a huge effect on history and politics.\nMany revolutions and governments in the 20th century were inspired by his thoughts on equality and workers’ rights.\nEven today, people still debate and discuss his influence.",
+  "questions": [
+    {
+      "q": "When was Karl Marx born?",
+      "options": [
+        "1918",
+        "1818",
+        "1883",
+        "1700"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was Karl Marx’s job?",
+      "options": [
+        "King",
+        "Scientist",
+        "Philosopher and writer",
+        "Soldier"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What book did Marx write?",
+      "options": [
+        "War and Peace",
+        "The Communist Manifesto",
+        "The Republic",
+        "The Origin of Species"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Marx believe about workers?",
+      "options": [
+        "They should get less money",
+        "They should move to cities",
+        "They were treated unfairly",
+        "They should stop working"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Marx important?",
+      "options": [
+        "He helped start World War II",
+        "He was a famous king",
+        "His ideas changed many countries",
+        "He invented electricity"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Karl Marx once worked as a journalist and had to move countries many times because of his political ideas."
+}

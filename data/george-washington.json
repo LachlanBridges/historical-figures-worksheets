@@ -1,0 +1,62 @@
+{
+  "name": "George Washington",
+  "birth": "1732",
+  "death": "1799 (aged 67)",
+  "origin": "Virginia, United States",
+  "role": "General and first U.S. president",
+  "what_did": "Washington led the American army during the Revolutionary War.\nAfter the war, he helped create the United States government and became its first president.\nHe chose to step down after two terms, setting an example for future leaders.",
+  "why_matters": "George Washington is called the 'Father of His Country'.\nHe helped win independence and set up how the U.S. government works.\nHe’s remembered for his honesty and leadership.",
+  "questions": [
+    {
+      "q": "What war did George Washington help win?",
+      "options": [
+        "World War I",
+        "The Civil War",
+        "The Revolutionary War",
+        "The French Revolution"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was George Washington’s job?",
+      "options": [
+        "Explorer",
+        "King",
+        "President",
+        "Painter"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is George Washington important?",
+      "options": [
+        "He made the U.S. flag",
+        "He was the first U.S. president and helped form the country",
+        "He discovered electricity",
+        "He invented a new language"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What is George Washington sometimes called?",
+      "options": [
+        "Father of the U.S.",
+        "The Great Painter",
+        "The Iron Duke",
+        "Hero of Rome"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What state was he from?",
+      "options": [
+        "New York",
+        "Virginia",
+        "Texas",
+        "California"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Washington’s face is on the U.S. one-dollar bill!"
+}

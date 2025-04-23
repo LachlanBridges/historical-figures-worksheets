@@ -1,0 +1,62 @@
+{
+  "name": "King Taksin the Great",
+  "birth": "1734",
+  "death": "1782 (aged 48)",
+  "origin": "Ayutthaya and later Thonburi, Thailand",
+  "role": "King and unifier",
+  "what_did": "After Ayutthaya was destroyed, Taksin rebuilt the Thai kingdom from ruins.\nHe gathered people, fought back invaders, and made Thonburi the new capital.\nHe helped keep the Thai nation alive.",
+  "why_matters": "Taksin is honored for saving and uniting Thailand after a time of chaos.\nHis actions helped the country rise again and stay strong.",
+  "questions": [
+    {
+      "q": "What city did King Taksin make the capital?",
+      "options": [
+        "Ayutthaya",
+        "Thonburi",
+        "Bangkok",
+        "Sukhothai"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did King Taksin do after Ayutthaya fell?",
+      "options": [
+        "Gave up",
+        "Moved away",
+        "Rebuilt the kingdom",
+        "Wrote a book"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was King Taksin born?",
+      "options": [
+        "China",
+        "Burma",
+        "Ayutthaya",
+        "India"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is King Taksin remembered for?",
+      "options": [
+        "Starting a school",
+        "Becoming a monk",
+        "Unifying and protecting Thailand",
+        "Traveling the world"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "When did King Taksin live?",
+      "options": [
+        "1734",
+        "1534",
+        "1834",
+        "1934"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "His statue in Thonburi shows him riding a horse, ready to lead his people!"
+}

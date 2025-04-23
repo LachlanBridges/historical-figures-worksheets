@@ -1,0 +1,62 @@
+{
+  "name": "Ludwig van Beethoven",
+  "birth": "1770",
+  "death": "1827 (aged 56)",
+  "origin": "Germany",
+  "role": "Composer and pianist",
+  "what_did": "Beethoven wrote powerful music, even after he began losing his hearing.\nHe created famous works like his 5th and 9th symphonies.\nHe changed music by showing deep emotions and bold new ideas.",
+  "why_matters": "Beethoven showed that great art can come from struggle.\nHe helped music become more expressive and dramatic.\nHis courage and music inspire people around the world.",
+  "questions": [
+    {
+      "q": "What happened to Beethoven’s hearing?",
+      "options": [
+        "It got better",
+        "He lost it",
+        "It was very sharp",
+        "He only heard music"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Beethoven write?",
+      "options": [
+        "Songs with words",
+        "Symphonies and piano music",
+        "Poems",
+        "Plays"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Beethoven from?",
+      "options": [
+        "Italy",
+        "Austria",
+        "France",
+        "Germany"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "Why is Beethoven’s music special?",
+      "options": [
+        "It is loud",
+        "It was only for kings",
+        "It shows deep feelings and bold ideas",
+        "It was written very fast"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is one famous piece by Beethoven?",
+      "options": [
+        "Ode to Joy",
+        "Twinkle Twinkle",
+        "Fur Elise",
+        "Both A and C"
+      ],
+      "answer_index": 3
+    }
+  ],
+  "fun_fact": "Beethoven kept composing even after he became completely deaf!"
+}

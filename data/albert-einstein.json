@@ -1,0 +1,62 @@
+{
+  "name": "Albert Einstein",
+  "birth": "1879",
+  "death": "1955 (aged 76)",
+  "origin": "Germany",
+  "role": "Scientist and thinker",
+  "what_did": "Einstein changed how we understand space, time, and energy.\nHe created the theory of relativity and the famous equation E=mc².\nHe won a Nobel Prize and spoke out for peace and human rights.",
+  "why_matters": "Einstein's ideas changed science forever.\nHe helped people understand the universe in new ways.\nHe also stood up for justice and learning.",
+  "questions": [
+    {
+      "q": "What is Einstein’s most famous equation?",
+      "options": [
+        "E=mc²",
+        "a²+b²=c²",
+        "F=ma",
+        "1+1=2"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Einstein study?",
+      "options": [
+        "Cooking",
+        "Art",
+        "Science",
+        "Music"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Einstein born?",
+      "options": [
+        "France",
+        "Germany",
+        "United States",
+        "Italy"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What big idea did Einstein come up with?",
+      "options": [
+        "Evolution",
+        "Relativity",
+        "Germ theory",
+        "Magnetism"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What prize did Einstein win?",
+      "options": [
+        "Olympic Gold",
+        "Peace Prize",
+        "Nobel Prize",
+        "Presidency"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Einstein didn’t speak much as a child — people thought he might never talk!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Mahatma Gandhi",
+  "birth": "1869",
+  "death": "1948 (aged 78)",
+  "origin": "India",
+  "role": "Peace leader and activist",
+  "what_did": "Gandhi led India’s movement for independence from British rule.\nHe believed in non-violence and peaceful protest.\nHe inspired people around the world to fight for justice without hurting others.",
+  "why_matters": "Gandhi showed that big change can come from peaceful actions.\nHis ideas influenced civil rights movements around the world.\nHe is remembered as a hero of peace and freedom.",
+  "questions": [
+    {
+      "q": "What did Gandhi believe in?",
+      "options": [
+        "Fighting with weapons",
+        "Peaceful protest",
+        "Climbing mountains",
+        "Building bridges"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was Gandhi from?",
+      "options": [
+        "India",
+        "France",
+        "China",
+        "England"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What was Gandhi’s goal?",
+      "options": [
+        "To become king",
+        "To invent machines",
+        "To free India",
+        "To write books"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What year was Gandhi born?",
+      "options": [
+        "1769",
+        "1869",
+        "1969",
+        "2009"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How did Gandhi lead protests?",
+      "options": [
+        "By fighting",
+        "By staying silent",
+        "By using magic",
+        "By being peaceful"
+      ],
+      "answer_index": 3
+    }
+  ],
+  "fun_fact": "Gandhi made his own clothes and walked everywhere barefoot!"
+}

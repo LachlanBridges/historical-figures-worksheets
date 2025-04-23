@@ -1,0 +1,62 @@
+{
+  "name": "Porfirio Díaz",
+  "birth": "1830",
+  "death": "1915 (aged 85)",
+  "origin": "Mexico",
+  "role": "President and military leader",
+  "what_did": "Díaz ruled Mexico for over 30 years.\nHe helped bring railways, factories, and new ideas to the country.\nBut many people were poor under his rule, and protests eventually forced him to leave.",
+  "why_matters": "Porfirio Díaz changed Mexico with big modernization projects.\nHe also showed what happens when one person has too much power for too long.\nHis rule helped lead to the Mexican Revolution.",
+  "questions": [
+    {
+      "q": "What country did Díaz lead?",
+      "options": [
+        "Spain",
+        "Mexico",
+        "Brazil",
+        "Argentina"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Díaz build in Mexico?",
+      "options": [
+        "Castles",
+        "Railways and factories",
+        "Lighthouses",
+        "Zoos"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why did people protest Díaz?",
+      "options": [
+        "He raised taxes on candy",
+        "He banned holidays",
+        "Many people stayed poor",
+        "He closed all schools"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How long did Díaz rule?",
+      "options": [
+        "10 years",
+        "5 years",
+        "30+ years",
+        "1 year"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What happened after Díaz left?",
+      "options": [
+        "A big war started",
+        "He became a teacher",
+        "Everyone got rich",
+        "He became a king"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Díaz once studied to become a priest before joining the army!"
+}

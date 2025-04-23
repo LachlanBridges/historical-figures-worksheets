@@ -1,0 +1,62 @@
+{
+  "name": "Thao Suranari (Lady Mo)",
+  "birth": "1771",
+  "death": "1852 (aged 81)",
+  "origin": "Thailand (Nakhon Ratchasima)",
+  "role": "Folk hero and defender",
+  "what_did": "Thao Suranari helped stop an invasion by using clever tricks and bravery.\nShe is remembered for protecting her city and leading other women to fight back.\nShe became a symbol of courage and smart leadership.",
+  "why_matters": "Thao Suranari is a Thai heroine who stood up to danger to protect her people.\nShe showed that women could be brave and wise leaders.\nHer story is still celebrated in Thailand today.",
+  "questions": [
+    {
+      "q": "Where was Thao Suranari from?",
+      "options": [
+        "China",
+        "Vietnam",
+        "Thailand",
+        "Laos"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did she do?",
+      "options": [
+        "Built a temple",
+        "Wrote poems",
+        "Defended her city",
+        "Taught music"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is another name for Thao Suranari?",
+      "options": [
+        "Lady Mo",
+        "Queen Bee",
+        "Miss Kora",
+        "Princess Noi"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What was special about her defense?",
+      "options": [
+        "She used magic",
+        "She used smart tricks and led women",
+        "She had a big army",
+        "She was very fast"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is she remembered?",
+      "options": [
+        "For singing songs",
+        "For making laws",
+        "For her bravery",
+        "For painting art"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "There's a statue of her in Nakhon Ratchasima where people bring flowers to say thanks!"
+}

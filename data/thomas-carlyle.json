@@ -1,0 +1,62 @@
+{
+  "name": "Thomas Carlyle",
+  "birth": "1795",
+  "death": "1881 (aged 85)",
+  "origin": "Scotland",
+  "role": "Writer and historian",
+  "what_did": "Thomas Carlyle wrote powerful books about history, heroes, and how people shape the world.\nHe believed that strong leaders and clear thinking were very important.\nHe also gave famous speeches and helped people care more about the past.",
+  "why_matters": "Carlyle changed how people thought about history and leadership.\nHe helped show that great people can change the world.\nHis books made many readers think harder about truth and duty.",
+  "questions": [
+    {
+      "q": "What did Carlyle write about?",
+      "options": [
+        "Science experiments",
+        "Superheroes",
+        "History and great leaders",
+        "Space travel"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Carlyle from?",
+      "options": [
+        "Ireland",
+        "Scotland",
+        "England",
+        "France"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Carlyle believe in?",
+      "options": [
+        "Funny jokes",
+        "Strong leadership and truth",
+        "Building machines",
+        "Magic spells"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why do people still read Carlyle?",
+      "options": [
+        "He made up funny stories",
+        "He wrote songs",
+        "He helped people think about the past and great people",
+        "He discovered animals"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of books did he write?",
+      "options": [
+        "Cartoons",
+        "Poetry",
+        "History and ideas",
+        "Recipe books"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Carlyle once gave a big speech about heroes that inspired people all across England!"
+}

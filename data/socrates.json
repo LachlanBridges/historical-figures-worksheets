@@ -1,0 +1,62 @@
+{
+  "name": "Socrates",
+  "birth": "Around 470 BCE",
+  "death": "399 BCE (aged ~71)",
+  "origin": "Athens, Greece",
+  "role": "Philosopher and teacher",
+  "what_did": "Socrates asked deep questions about life, truth, and goodness.\nHe didn’t write anything down — instead, he talked with people and challenged their ideas.\nHe taught by asking questions, a method now called the Socratic method.",
+  "why_matters": "Socrates helped start Western philosophy.\nHe showed that asking good questions is one of the best ways to learn.\nEven though he was sentenced to death, he stayed true to his beliefs.",
+  "questions": [
+    {
+      "q": "Where was Socrates from?",
+      "options": [
+        "Rome",
+        "Athens",
+        "Sparta",
+        "Babylon"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Socrates do?",
+      "options": [
+        "He built roads",
+        "He painted pictures",
+        "He asked deep questions",
+        "He ruled Greece"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is the Socratic method?",
+      "options": [
+        "Telling stories",
+        "Giving speeches",
+        "Asking questions to learn",
+        "Singing songs"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Did Socrates write books?",
+      "options": [
+        "Yes, many",
+        "Only one",
+        "No, he just talked",
+        "Only poems"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Socrates important?",
+      "options": [
+        "He was very rich",
+        "He invented math",
+        "He helped start philosophy",
+        "He built Athens"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Socrates never charged money for teaching — he just loved talking and learning!"
+}

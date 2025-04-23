@@ -1,0 +1,42 @@
+{
+  "name": "Douglas Mawson",
+  "birth": "1882",
+  "death": "1958 (aged 76)",
+  "origin": "Australia",
+  "role": "Explorer and scientist",
+  "what_did": "Mawson explored Antarctica and survived freezing winds and danger.\nHe studied rocks, ice, and the land during his journeys.\nHis bravery and science helped people learn more about the coldest place on Earth.",
+  "why_matters": "Mawson helped map Antarctica and showed the power of courage and science.\nHe is one of Australia’s most famous explorers.",
+  "questions": [
+    {
+      "q": "Where did Mawson explore?",
+      "options": [
+        "Africa",
+        "The desert",
+        "Antarctica",
+        "Mars"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Mawson study?",
+      "options": [
+        "Plants",
+        "Rocks and ice",
+        "Languages",
+        "Cars"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was special about Mawson?",
+      "options": [
+        "He loved dancing",
+        "He was the fastest runner",
+        "He survived a freezing journey",
+        "He invented airplanes"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "There’s a whole station in Antarctica named after Mawson!"
+}

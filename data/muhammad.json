@@ -1,0 +1,62 @@
+{
+  "name": "Muhammad",
+  "birth": "Around 570 CE",
+  "death": "632 CE (aged 62)",
+  "origin": "Mecca, Arabia",
+  "role": "Religious leader and founder of Islam",
+  "what_did": "Muhammad received messages from Allah (God) through the angel Gabriel.\nHe taught that there is only one God and that people should live justly and kindly.\nHis words were written down in the Quran, the holy book of Islam.",
+  "why_matters": "Muhammad founded Islam, a major world religion followed by over a billion people today.\nHis teachings shaped the culture, law, and values of many countries.\nHe is considered the final prophet in Islam.",
+  "questions": [
+    {
+      "q": "Where was Muhammad born?",
+      "options": [
+        "Baghdad",
+        "Jerusalem",
+        "Mecca",
+        "Cairo"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What book contains Muhammad’s teachings?",
+      "options": [
+        "Torah",
+        "Bible",
+        "Quran",
+        "Scrolls of Fire"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How did Muhammad receive messages from God?",
+      "options": [
+        "Dreams",
+        "Books",
+        "Angel Gabriel",
+        "A talking animal"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Muhammad teach?",
+      "options": [
+        "War and conquest",
+        "One God and just living",
+        "How to build ships",
+        "Magic spells"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What religion did Muhammad start?",
+      "options": [
+        "Christianity",
+        "Judaism",
+        "Islam",
+        "Hinduism"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Muhammad could not read or write — but his words were remembered and written by his followers!"
+}

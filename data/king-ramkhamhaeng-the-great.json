@@ -1,0 +1,62 @@
+{
+  "name": "King Ramkhamhaeng the Great",
+  "birth": "Around 1239",
+  "death": "Around 1298 (aged ~59)",
+  "origin": "Sukhothai, Thailand",
+  "role": "King and creator of the Thai alphabet",
+  "what_did": "King Ramkhamhaeng ruled the Sukhothai Kingdom and helped it grow strong and peaceful.\nHe invented the Thai writing system and encouraged learning, religion, and trade.\nHe welcomed people from different places and let them live freely.",
+  "why_matters": "He helped shape Thai culture by creating the Thai alphabet.\nHis leadership is remembered as a golden time in Thai history, with freedom and growth.",
+  "questions": [
+    {
+      "q": "What writing system did Ramkhamhaeng create?",
+      "options": [
+        "Thai alphabet",
+        "Roman alphabet",
+        "Khmer script",
+        "Chinese characters"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where did Ramkhamhaeng rule?",
+      "options": [
+        "Chiang Mai",
+        "Bangkok",
+        "Sukhothai",
+        "Ayutthaya"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of leader was Ramkhamhaeng?",
+      "options": [
+        "Cruel and harsh",
+        "Kind and wise",
+        "Silent and shy",
+        "Lazy and forgetful"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is Ramkhamhaeng important?",
+      "options": [
+        "He discovered oil",
+        "He made the Thai language easier to write",
+        "He won every war",
+        "He became a monk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "When did Ramkhamhaeng live?",
+      "options": [
+        "1239",
+        "1431",
+        "1611",
+        "100 BCE"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "He placed a bell in front of his palace — anyone could ring it to ask the king for help!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Augustine of Hippo",
+  "birth": "354 CE",
+  "death": "430 CE (aged 76)",
+  "origin": "Numidia (now Algeria)",
+  "role": "Christian thinker and bishop",
+  "what_did": "Augustine wrote books about God, the soul, and human life.\nHe told the story of his own life in 'Confessions', one of the first true autobiographies.\nHe helped explain Christian beliefs during hard times for the Roman world.",
+  "why_matters": "Augustine shaped Christian thinking for over 1,000 years.\nHe taught about love, truth, and the struggles inside the human heart.\nHis books are still read by people learning about religion and philosophy.",
+  "questions": [
+    {
+      "q": "What book did Augustine write?",
+      "options": [
+        "Confessions",
+        "The Histories",
+        "The Laws",
+        "The Republic"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was Augustine born?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Numidia (North Africa)",
+        "Spain"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What religion was Augustine a part of?",
+      "options": [
+        "Islam",
+        "Judaism",
+        "Christianity",
+        "Hinduism"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Augustine's job?",
+      "options": [
+        "Farmer",
+        "Bishop and writer",
+        "Soldier",
+        "Painter"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Augustine write about?",
+      "options": [
+        "How to build empires",
+        "Science and math",
+        "God and the soul",
+        "Travel and animals"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Augustine once prayed: 'Give me self-control... but not yet!'"
+}

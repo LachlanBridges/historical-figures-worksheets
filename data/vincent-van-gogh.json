@@ -1,0 +1,62 @@
+{
+  "name": "Vincent van Gogh",
+  "birth": "1853",
+  "death": "1890 (aged 37)",
+  "origin": "Netherlands",
+  "role": "Artist and painter",
+  "what_did": "Van Gogh painted bright, emotional pictures like 'Starry Night' and 'Sunflowers'.\nHe used thick paint and swirling colors to show how he felt.\nEven though he sold few paintings in his life, he became one of the most famous artists in the world.",
+  "why_matters": "Van Gogh changed how people think about art and emotions.\nHis bold style inspired many artists after him.\nHis life also shows how hard it can be to follow your passion.",
+  "questions": [
+    {
+      "q": "What did van Gogh paint?",
+      "options": [
+        "Castles and kings",
+        "Machines and tools",
+        "Emotional pictures with bright colors",
+        "Maps and stars"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was van Gogh from?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Netherlands"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "Why is van Gogh famous today?",
+      "options": [
+        "He was a prince",
+        "He built churches",
+        "His paintings inspired many artists",
+        "He made music"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is one of his famous paintings?",
+      "options": [
+        "The Mona Lisa",
+        "The Scream",
+        "Starry Night",
+        "The Last Supper"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Did van Gogh become rich from his art?",
+      "options": [
+        "Yes, very rich",
+        "Only after he died",
+        "He never made any art",
+        "He worked in a bank"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Van Gogh painted over 2,000 artworks but only sold a few while he was alive!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Cyrus the Great",
+  "birth": "Around 600 BCE",
+  "death": "530 BCE (aged ~70)",
+  "origin": "Persia (modern Iran)",
+  "role": "King and empire-builder",
+  "what_did": "Cyrus united the Persian tribes and built one of the largest empires in history.\nHe was known for respecting other cultures and letting people keep their own religions.\nHe freed the Jewish people from captivity in Babylon.",
+  "why_matters": "Cyrus showed that rulers could be powerful and kind.\nHe started a model of leadership based on fairness and respect.\nHis empire helped connect different peoples across Asia.",
+  "questions": [
+    {
+      "q": "What empire did Cyrus start?",
+      "options": [
+        "Greek",
+        "Roman",
+        "Persian",
+        "Mongol"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Cyrus allow people to keep?",
+      "options": [
+        "Pets",
+        "Gold",
+        "Religions",
+        "Castles"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Cyrus from?",
+      "options": [
+        "India",
+        "Persia",
+        "Greece",
+        "China"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who did Cyrus free from captivity?",
+      "options": [
+        "Egyptians",
+        "Romans",
+        "Jews",
+        "Vikings"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How was Cyrus a different kind of ruler?",
+      "options": [
+        "He ruled with kindness",
+        "He never spoke",
+        "He hid from people",
+        "He built pyramids"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Cyrus’s ideas about human rights are still praised today!"
+}

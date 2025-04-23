@@ -1,0 +1,62 @@
+{
+  "name": "Sir Donald Bradman",
+  "birth": "1908",
+  "death": "2001 (aged 92)",
+  "origin": "Australia",
+  "role": "Cricketer",
+  "what_did": "Sir Donald Bradman was a cricket superstar.\nHe scored more runs than almost anyone in history.\nPeople called him 'The Don' and cheered for his amazing skills.",
+  "why_matters": "Bradman is known as one of the best athletes of all time.\nHe brought pride to Australia.\nHis record is still talked about today.",
+  "questions": [
+    {
+      "q": "What sport did Bradman play?",
+      "options": [
+        "Tennis",
+        "Football",
+        "Cricket",
+        "Swimming"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Bradman’s nickname?",
+      "options": [
+        "The Boss",
+        "The Don",
+        "The Champ",
+        "The Flash"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was he from?",
+      "options": [
+        "India",
+        "England",
+        "Australia",
+        "South Africa"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why was Bradman famous?",
+      "options": [
+        "He could fly",
+        "He built stadiums",
+        "He scored lots of runs",
+        "He sang songs"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How long did people remember him?",
+      "options": [
+        "Only during games",
+        "Not at all",
+        "Only in books",
+        "For many decades"
+      ],
+      "answer_index": 3
+    }
+  ],
+  "fun_fact": "As a boy, Bradman practiced by hitting a golf ball against a water tank!"
+}

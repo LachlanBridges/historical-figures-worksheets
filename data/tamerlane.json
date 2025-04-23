@@ -1,0 +1,62 @@
+{
+  "name": "Tamerlane",
+  "birth": "Around 1336",
+  "death": "1405 (aged ~69)",
+  "origin": "Central Asia (modern Uzbekistan)",
+  "role": "Conqueror and empire-builder",
+  "what_did": "Tamerlane led powerful armies across Asia, the Middle East, and parts of Europe.\nHe built a huge empire with his capital in Samarkand.\nThough feared for his battles, he also supported art and learning.",
+  "why_matters": "Tamerlane changed the shape of many nations with his conquests.\nHe left behind beautiful buildings and a legacy of both fear and wonder.\nHis empire showed how one person could impact many cultures.",
+  "questions": [
+    {
+      "q": "What did Tamerlane do?",
+      "options": [
+        "Wrote poems",
+        "Built houses",
+        "Led armies and built an empire",
+        "Made toys"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was his capital?",
+      "options": [
+        "Rome",
+        "Samarkand",
+        "Paris",
+        "Cairo"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What else did he support?",
+      "options": [
+        "Fishing and farming",
+        "Art and learning",
+        "Flying machines",
+        "Magic tricks"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How is he remembered?",
+      "options": [
+        "As a great farmer",
+        "For being quiet and shy",
+        "As a warrior and builder",
+        "For singing songs"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Tamerlane from?",
+      "options": [
+        "Japan",
+        "India",
+        "Central Asia",
+        "Italy"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Tamerlane's tomb has a warning on it: 'Whoever opens this will unleash a conqueror worse than me!'"
+}

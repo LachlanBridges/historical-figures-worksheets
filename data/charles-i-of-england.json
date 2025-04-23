@@ -1,0 +1,62 @@
+{
+  "name": "Charles I of England",
+  "birth": "1600",
+  "death": "1649 (aged 48)",
+  "origin": "England",
+  "role": "King of England",
+  "what_did": "Charles I was king during a time of big arguments about power.\nHe believed kings got their power from God and didn’t listen to Parliament.\nThis led to a war — and he was the first English king to be put on trial and executed.",
+  "why_matters": "Charles’s reign changed English history forever.\nHis death showed that kings could be held responsible.\nHe helped start the idea that rulers must follow laws too.",
+  "questions": [
+    {
+      "q": "What country did Charles I rule?",
+      "options": [
+        "France",
+        "Scotland",
+        "England",
+        "Spain"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Charles believe about his power?",
+      "options": [
+        "It came from the people",
+        "It came from God",
+        "He had no power",
+        "It came from books"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What happened to Charles I?",
+      "options": [
+        "He ran away",
+        "He became a monk",
+        "He was executed",
+        "He ruled forever"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why was there a war during his rule?",
+      "options": [
+        "People were hungry",
+        "He wouldn’t listen to Parliament",
+        "He lost money",
+        "He wanted to move the capital"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What idea came from his trial?",
+      "options": [
+        "Kings can do anything",
+        "Kings must obey laws too",
+        "Kings should be silent",
+        "Kings should wear armor"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Charles I loved art and filled his palace with paintings!"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Bob Hawke",
+  "birth": "1929",
+  "death": "2019 (aged 89)",
+  "origin": "Australia",
+  "role": "Prime Minister and union leader",
+  "what_did": "Bob Hawke was Australia’s Prime Minister in the 1980s.\nHe helped the economy grow and worked with workers and businesses to make big decisions together.\nHe was also known for his love of beer and cricket.",
+  "why_matters": "Hawke helped modernize Australia and showed that leaders can be both smart and friendly.\nHe brought people together to solve problems.",
+  "questions": [
+    {
+      "q": "What job did Bob Hawke have?",
+      "options": [
+        "Pilot",
+        "Prime Minister",
+        "Explorer",
+        "Chef"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What sport did Hawke love?",
+      "options": [
+        "Basketball",
+        "Soccer",
+        "Cricket",
+        "Skiing"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was special about his leadership style?",
+      "options": [
+        "He never smiled",
+        "He worked with everyone",
+        "He ruled alone",
+        "He ignored problems"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Bob Hawke once set a world record for drinking a yard of beer in just 11 seconds!"
+}

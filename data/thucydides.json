@@ -1,0 +1,62 @@
+{
+  "name": "Thucydides",
+  "birth": "Around 460 BCE",
+  "death": "Around 400 BCE (aged ~60)",
+  "origin": "Athens, Greece",
+  "role": "Historian and general",
+  "what_did": "Thucydides wrote about the long war between Athens and Sparta.\nHe used facts and his own experience as a general to tell the story.\nHe wanted to explain why wars happen and how people make decisions.",
+  "why_matters": "Thucydides wrote careful, serious history.\nHe helped people think about cause and effect in war and politics.\nHis ideas still help us understand power and leadership.",
+  "questions": [
+    {
+      "q": "What war did Thucydides write about?",
+      "options": [
+        "The Trojan War",
+        "The Peloponnesian War",
+        "The Persian War",
+        "The Roman War"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Thucydides from?",
+      "options": [
+        "Sparta",
+        "Rome",
+        "Athens",
+        "Corinth"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Thucydides’s job?",
+      "options": [
+        "Farmer",
+        "General and historian",
+        "Poet",
+        "Sculptor"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How did Thucydides learn about the war?",
+      "options": [
+        "He was a soldier in it",
+        "He heard stories from others",
+        "He read old scrolls",
+        "He guessed"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Thucydides focus on?",
+      "options": [
+        "Myths and legends",
+        "Magic and spirits",
+        "Facts and reasons",
+        "Songs and poems"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Thucydides caught the plague while writing — and survived it!"
+}

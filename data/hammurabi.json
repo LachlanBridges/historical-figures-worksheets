@@ -1,0 +1,62 @@
+{
+  "name": "Hammurabi",
+  "birth": "Around 1810 BCE",
+  "death": "Around 1750 BCE (aged ~60)",
+  "origin": "Babylon (Iraq)",
+  "role": "King and lawmaker",
+  "what_did": "Hammurabi was the king of Babylon.\nHe created one of the world’s first written law codes, called the Code of Hammurabi.\nIt included rules for fairness, work, and punishment.",
+  "why_matters": "Hammurabi’s code helped people know the rules and what would happen if they broke them.\nIt was one of the first times laws were written for all to see.\nHis ideas helped shape later legal systems.",
+  "questions": [
+    {
+      "q": "What did Hammurabi create?",
+      "options": [
+        "A new language",
+        "A huge army",
+        "A code of laws",
+        "A time machine"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did Hammurabi rule?",
+      "options": [
+        "Babylon",
+        "Athens",
+        "Rome",
+        "Cairo"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What was special about Hammurabi’s laws?",
+      "options": [
+        "They were sung",
+        "They were secret",
+        "They were written down",
+        "They were for gods"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why do we remember Hammurabi today?",
+      "options": [
+        "He built a tower",
+        "He made strong laws",
+        "He flew across Babylon",
+        "He made toys"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country is Babylon in today?",
+      "options": [
+        "India",
+        "Greece",
+        "Iraq",
+        "Turkey"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "The Code of Hammurabi was carved into a big black stone!"
+}
