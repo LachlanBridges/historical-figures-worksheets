@@ -1,0 +1,62 @@
+{
+  "name": "King Rama I",
+  "birth": "1737",
+  "death": "1809 (aged 72)",
+  "origin": "Thailand",
+  "role": "King and founder of the Chakri Dynasty",
+  "what_did": "King Rama I became the first king of the Chakri Dynasty and started the Rattanakosin era.\nHe moved the capital to Bangkok and helped build the Grand Palace and Wat Phra Kaew.\nHe also helped write down and organize Thai laws and literature.",
+  "why_matters": "King Rama I shaped modern Thailand and started a royal family that still leads today.\nHe protected Thai culture and rebuilt the country after a time of war.",
+  "questions": [
+    {
+      "q": "What did King Rama I build?",
+      "options": [
+        "Wat Phra Kaew",
+        "A shopping mall",
+        "A school",
+        "A bridge"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where did King Rama I move the capital?",
+      "options": [
+        "Chiang Mai",
+        "Ayutthaya",
+        "Bangkok",
+        "Phuket"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did King Rama I help write?",
+      "options": [
+        "Cookbooks",
+        "Laws and stories",
+        "Math books",
+        "Music notes"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was King Rama I from?",
+      "options": [
+        "Thailand",
+        "China",
+        "Vietnam",
+        "India"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What dynasty did King Rama I start?",
+      "options": [
+        "Tokugawa",
+        "Rama Dynasty",
+        "Chakri Dynasty",
+        "Han Dynasty"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "He helped save and rewrite the Ramakien, Thailand’s national epic!"
+}

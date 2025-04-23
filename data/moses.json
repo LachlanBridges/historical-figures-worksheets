@@ -1,0 +1,62 @@
+{
+  "name": "Moses",
+  "birth": "Around 1300 BCE (date uncertain)",
+  "death": "Around 1200 BCE (aged ~120, according to tradition)",
+  "origin": "Ancient Egypt / Israel",
+  "role": "Religious leader and prophet",
+  "what_did": "Moses led the Israelites out of slavery in Egypt, a journey called the Exodus.\nHe received the Ten Commandments from God on Mount Sinai.\nHe is a central figure in Judaism, and also important in Christianity and Islam.",
+  "why_matters": "Moses helped shape the moral and legal foundations of Western religions.\nThe story of the Exodus is one of freedom, faith, and leadership.\nHis teachings influenced how many people think about right and wrong.",
+  "questions": [
+    {
+      "q": "What did Moses lead the Israelites out of?",
+      "options": [
+        "Egypt",
+        "Rome",
+        "Babylon",
+        "Persia"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What are the Ten Commandments?",
+      "options": [
+        "A type of treasure",
+        "A set of laws from God",
+        "A list of kings",
+        "A song"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What mountain did Moses go up?",
+      "options": [
+        "Mount Olympus",
+        "Mount Everest",
+        "Mount Sinai",
+        "Mount Zion"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What religion is Moses most important to?",
+      "options": [
+        "Buddhism",
+        "Judaism",
+        "Hinduism",
+        "Christianity"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What is the Exodus?",
+      "options": [
+        "A battle",
+        "A book",
+        "A journey out of Egypt",
+        "A temple"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Moses is said to have parted the Red Sea so his people could escape!"
+}

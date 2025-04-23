@@ -1,0 +1,62 @@
+{
+  "name": "Nikola Tesla",
+  "birth": "1856",
+  "death": "1943 (aged 86)",
+  "origin": "Croatia / United States",
+  "role": "Inventor and electrical engineer",
+  "what_did": "Tesla invented new ways to use electricity.\nHe created the system that powers most homes today (AC electricity).\nHe also dreamed up ideas like wireless power and radio before they existed.",
+  "why_matters": "Tesla’s inventions changed the modern world.\nHe helped bring electricity to cities and homes.\nHis ideas helped shape the technology we use today.",
+  "questions": [
+    {
+      "q": "What did Tesla work with?",
+      "options": [
+        "Electricity",
+        "Chemicals",
+        "Plants",
+        "Rockets"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was Tesla born?",
+      "options": [
+        "USA",
+        "France",
+        "Croatia",
+        "Germany"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of electricity did Tesla invent?",
+      "options": [
+        "DC (Direct Current)",
+        "AC (Alternating Current)",
+        "Static",
+        "Solar"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Which of these did Tesla imagine?",
+      "options": [
+        "Airplanes",
+        "Wireless power",
+        "Robots",
+        "Trains"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is Tesla important?",
+      "options": [
+        "He built the first car",
+        "He painted famous pictures",
+        "His ideas helped shape electricity and technology",
+        "He explored the jungle"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Tesla once lit up 200 lamps without any wires, just using the air!"
+}

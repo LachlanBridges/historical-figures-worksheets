@@ -1,0 +1,62 @@
+{
+  "name": "Julius Caesar",
+  "birth": "100 BCE",
+  "death": "44 BCE (aged 55)",
+  "origin": "Rome, Italy",
+  "role": "Military leader and politician",
+  "what_did": "Caesar was a powerful general who conquered many lands for Rome, including Gaul (modern France).\nHe became so popular that he was declared 'dictator for life'.\nSome people feared he had too much power — he was assassinated by a group of senators.",
+  "why_matters": "Caesar changed the Roman Republic forever, leading to the rise of the Roman Empire.\nHis actions and death marked the end of one kind of government and the start of another.\nHe’s one of the most famous figures in ancient history.",
+  "questions": [
+    {
+      "q": "When was Julius Caesar born?",
+      "options": [
+        "100 BCE",
+        "44 BCE",
+        "1 CE",
+        "200 BCE"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What was Caesar’s role in Rome?",
+      "options": [
+        "Poet",
+        "Artist",
+        "General and leader",
+        "Teacher"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why was Julius Caesar killed?",
+      "options": [
+        "He lost a war",
+        "People thought he had too much power",
+        "He was very old",
+        "He got sick"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Caesar conquer for Rome?",
+      "options": [
+        "China",
+        "Egypt",
+        "Gaul",
+        "India"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What changed after Caesar’s death?",
+      "options": [
+        "Rome became an empire",
+        "Rome was destroyed",
+        "Caesar became king",
+        "The Senate became more powerful"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Julius Caesar gave his name to the month of July — it used to be called Quintilis!"
+}

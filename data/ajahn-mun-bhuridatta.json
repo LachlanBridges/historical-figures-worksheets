@@ -1,0 +1,62 @@
+{
+  "name": "Ajahn Mun Bhuridatta",
+  "birth": "1870",
+  "death": "1949 (aged 79)",
+  "origin": "Thailand",
+  "role": "Buddhist monk and meditation teacher",
+  "what_did": "Ajahn Mun was a forest monk who lived simply and quietly.\nHe taught deep meditation and helped start the Thai Forest Tradition.\nHe walked through jungles to find quiet places to practice and teach.",
+  "why_matters": "Ajahn Mun inspired many monks to live peaceful, thoughtful lives.\nHis teachings are still followed in Thailand and around the world.",
+  "questions": [
+    {
+      "q": "What kind of monk was Ajahn Mun?",
+      "options": [
+        "City monk",
+        "Forest monk",
+        "Temple builder",
+        "Fighting monk"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Ajahn Mun teach?",
+      "options": [
+        "Dancing",
+        "Meditation",
+        "Cooking",
+        "Writing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where did Ajahn Mun go to practice?",
+      "options": [
+        "Big cities",
+        "Schools",
+        "Libraries",
+        "Forests and caves"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What tradition did he help start?",
+      "options": [
+        "City Buddhism",
+        "Forest Tradition",
+        "Science club",
+        "Music school"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why do people remember Ajahn Mun?",
+      "options": [
+        "He built many statues",
+        "He made a new religion",
+        "He lived simply and taught meditation",
+        "He wrote children’s books"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "He sometimes meditated in tiger-filled jungles — and stayed calm!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Queen Elizabeth I",
+  "birth": "1533",
+  "death": "1603 (aged 69)",
+  "origin": "England",
+  "role": "Queen of England",
+  "what_did": "Elizabeth I ruled England for 44 years in what’s called the Elizabethan Age.\nShe never married and was known as the 'Virgin Queen'.\nHer reign saw great exploration, the defeat of the Spanish Armada, and the rise of famous writers like Shakespeare.",
+  "why_matters": "Elizabeth I helped England grow strong and stable after years of trouble.\nShe encouraged exploration and supported the arts, helping shape modern English culture.\nHer rule is remembered as a golden age in English history.",
+  "questions": [
+    {
+      "q": "When did Elizabeth I become queen?",
+      "options": [
+        "1500",
+        "1533",
+        "1558",
+        "1603"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Elizabeth I known as?",
+      "options": [
+        "The Brave Queen",
+        "The Silver Queen",
+        "The Warrior Queen",
+        "The Virgin Queen"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What major event happened during her reign?",
+      "options": [
+        "Defeat of the Spanish Armada",
+        "Discovery of America",
+        "Fall of the Roman Empire",
+        "Start of World War I"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Which famous writer lived during her time?",
+      "options": [
+        "Shakespeare",
+        "Homer",
+        "Tolstoy",
+        "Dickens"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Why is her reign remembered as a golden age?",
+      "options": [
+        "She discovered gold",
+        "She supported the arts and exploration",
+        "She ruled alone",
+        "She built castles"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Queen Elizabeth I owned over 2,000 dresses but is said to have worn thick white makeup made from lead!"
+}

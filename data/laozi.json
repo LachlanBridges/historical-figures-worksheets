@@ -1,0 +1,62 @@
+{
+  "name": "Laozi (Lao Tzu)",
+  "birth": "Around 600 BCE",
+  "death": "Exact date unknown",
+  "origin": "China",
+  "role": "Philosopher and founder of Daoism (Taoism)",
+  "what_did": "Laozi wrote a short book called the 'Tao Te Ching' about nature, balance, and living simply.\nHe believed that the best way to live is to go with the flow of life, like water.\nHe didn’t want power — he thought rulers should lead gently.",
+  "why_matters": "Laozi started Daoism, a way of thinking and living that values harmony with nature and quiet strength.\nHis ideas influenced Chinese art, medicine, and how people see the world.",
+  "questions": [
+    {
+      "q": "What book did Laozi write?",
+      "options": [
+        "Tao Te Ching",
+        "The Art of War",
+        "Analects",
+        "The Book of Songs"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Laozi believe people should be like?",
+      "options": [
+        "Strong like fire",
+        "Fast like wind",
+        "Gentle like water",
+        "Loud like thunder"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country was Laozi from?",
+      "options": [
+        "India",
+        "China",
+        "Japan",
+        "Korea"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What is Daoism about?",
+      "options": [
+        "Fighting battles",
+        "Controlling people",
+        "Living in harmony with nature",
+        "Building big cities"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of leader did Laozi think was best?",
+      "options": [
+        "Very strict",
+        "Very quiet and kind",
+        "Very loud",
+        "Very rich"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Some people think Laozi rode away on a water buffalo and was never seen again!"
+}

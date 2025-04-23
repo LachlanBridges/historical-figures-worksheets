@@ -1,0 +1,62 @@
+{
+  "name": "Mary MacKillop",
+  "birth": "1842",
+  "death": "1909 (aged 67)",
+  "origin": "Australia",
+  "role": "Nun and educator",
+  "what_did": "Mary MacKillop helped start schools for poor children in Australia.\nShe became a nun and created the Sisters of St Joseph.\nShe worked hard to bring education to the outback.",
+  "why_matters": "Mary made sure all kids, even the poor, could go to school.\nShe showed kindness, bravery, and strong faith.\nShe became Australia’s first saint.",
+  "questions": [
+    {
+      "q": "What did Mary MacKillop start?",
+      "options": [
+        "Hospitals",
+        "Shops",
+        "Schools for the poor",
+        "Football teams"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What group did she create?",
+      "options": [
+        "Sisters of the Sea",
+        "Sisters of Mercy",
+        "Sisters of St Joseph",
+        "Saints of Hope"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did she help teach children?",
+      "options": [
+        "Only in cities",
+        "Only in England",
+        "The Australian outback",
+        "America"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is she important in religion?",
+      "options": [
+        "She became a saint",
+        "She built churches",
+        "She wrote prayers",
+        "She led a choir"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What was she like?",
+      "options": [
+        "Mean and strict",
+        "Kind and brave",
+        "Funny and silly",
+        "Quiet and shy"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "She’s the only Australian saint recognized by the Catholic Church!"
+}

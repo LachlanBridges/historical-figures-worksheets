@@ -1,0 +1,62 @@
+{
+  "name": "Galileo Galilei",
+  "birth": "1564",
+  "death": "1642 (aged 77)",
+  "origin": "Italy",
+  "role": "Astronomer and scientist",
+  "what_did": "Galileo used telescopes to study space and proved that the Earth goes around the Sun.\nHe discovered moons around Jupiter and saw craters on the Moon.\nMany people didn’t believe him, and he got in trouble for his ideas.",
+  "why_matters": "Galileo helped start modern science.\nHe showed that we should look at the world carefully and test ideas.\nHe changed how people thought about the universe.",
+  "questions": [
+    {
+      "q": "What planet did Galileo see had moons?",
+      "options": [
+        "Mars",
+        "Jupiter",
+        "Earth",
+        "Venus"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What tool did Galileo use?",
+      "options": [
+        "Microscope",
+        "Ruler",
+        "Telescope",
+        "Binoculars"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Galileo believe about Earth?",
+      "options": [
+        "It was flat",
+        "It was the center of the universe",
+        "It went around the Sun",
+        "It didn’t move"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Galileo from?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Greece"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why did Galileo get in trouble?",
+      "options": [
+        "He broke the telescope",
+        "He told people to go to space",
+        "His ideas disagreed with the church",
+        "He stole books"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Galileo made his own telescope and saw Saturn’s rings!"
+}

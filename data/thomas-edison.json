@@ -1,0 +1,62 @@
+{
+  "name": "Thomas Edison",
+  "birth": "1847",
+  "death": "1931 (aged 84)",
+  "origin": "United States",
+  "role": "Inventor and businessman",
+  "what_did": "Edison invented many useful things, including the electric light bulb.\nHe also made improvements to the phonograph and motion pictures.\nHe held over 1,000 patents and helped bring electricity to homes and cities.",
+  "why_matters": "Edison's inventions changed everyday life.\nThanks to him, people could light their homes at night and enjoy music and movies.\nHe showed how hard work and curiosity could lead to big ideas.",
+  "questions": [
+    {
+      "q": "What did Thomas Edison invent?",
+      "options": [
+        "The telephone",
+        "The light bulb",
+        "The airplane",
+        "The rocket"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How many patents did Edison hold?",
+      "options": [
+        "About 10",
+        "Around 100",
+        "Over 1,000",
+        "None"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Edison from?",
+      "options": [
+        "United Kingdom",
+        "United States",
+        "France",
+        "Germany"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is Edison important?",
+      "options": [
+        "He started the first school",
+        "He helped bring electricity to homes",
+        "He discovered dinosaurs",
+        "He led armies in war"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What else did Edison work on?",
+      "options": [
+        "Cooking",
+        "Space travel",
+        "Music and movies",
+        "Painting"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Edison once said he failed 10,000 times before inventing the light bulb — but he never gave up!"
+}

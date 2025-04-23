@@ -1,0 +1,62 @@
+{
+  "name": "Jane Austen",
+  "birth": "1775",
+  "death": "1817 (aged 41)",
+  "origin": "England",
+  "role": "Author and novelist",
+  "what_did": "Jane Austen wrote smart and funny books about people, love, and life.\nHer stories showed how women thought and felt in her time.\nShe is famous for books like 'Pride and Prejudice' and 'Emma'.",
+  "why_matters": "Jane Austen helped make novels a respected art form.\nHer books are still read around the world for their wit, emotion, and clever characters.\nShe showed that women’s voices mattered in literature.",
+  "questions": [
+    {
+      "q": "What did Jane Austen write?",
+      "options": [
+        "Science books",
+        "Novels about people and love",
+        "History books",
+        "Adventure comics"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Jane Austen from?",
+      "options": [
+        "France",
+        "Ireland",
+        "England",
+        "Scotland"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Which book did she write?",
+      "options": [
+        "Pride and Prejudice",
+        "Moby Dick",
+        "The Little Prince",
+        "Alice in Wonderland"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Why is she still famous?",
+      "options": [
+        "She flew planes",
+        "Her novels are full of wit and insight",
+        "She made toys",
+        "She sang on stage"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did her books often focus on?",
+      "options": [
+        "Robots",
+        "Mountains",
+        "People’s feelings and choices",
+        "Animals"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Jane Austen’s books didn’t have her name on them at first — they were just signed 'By a Lady'."
+}

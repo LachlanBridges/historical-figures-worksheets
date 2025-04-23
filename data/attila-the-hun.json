@@ -1,0 +1,62 @@
+{
+  "name": "Attila the Hun",
+  "birth": "Around 406 CE",
+  "death": "453 CE (aged ~47)",
+  "origin": "Central Asia",
+  "role": "Warrior and leader",
+  "what_did": "Attila was the ruler of the Huns, a powerful group of warriors.\nHe led many battles against the Roman Empire and was feared across Europe.\nHe wanted to make his people strong and rich by taking land and treasure.",
+  "why_matters": "Attila became one of the most famous warrior leaders in history.\nEven though he caused fear, he showed how strong leaders could change empires.\nHis name is still known over 1,500 years later.",
+  "questions": [
+    {
+      "q": "Who did Attila fight against?",
+      "options": [
+        "The Roman Empire",
+        "The Chinese Empire",
+        "The Mongols",
+        "The Greeks"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What group did Attila lead?",
+      "options": [
+        "The Vikings",
+        "The Romans",
+        "The Huns",
+        "The Persians"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Attila known for?",
+      "options": [
+        "Building schools",
+        "Winning wars",
+        "Writing books",
+        "Making music"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where did Attila live?",
+      "options": [
+        "Central Asia",
+        "South America",
+        "North Africa",
+        "Japan"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "How long ago did Attila live?",
+      "options": [
+        "500 years ago",
+        "1,000 years ago",
+        "Over 1,500 years ago",
+        "100 years ago"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Some people called him the ‘Scourge of God’ because he scared so many rulers!"
+}

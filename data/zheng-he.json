@@ -1,0 +1,62 @@
+{
+  "name": "Zheng He",
+  "birth": "1371",
+  "death": "1433 (aged 62)",
+  "origin": "China",
+  "role": "Explorer and admiral",
+  "what_did": "Zheng He led giant ships on long voyages across Asia and Africa.\nHe brought gifts, traded goods, and made friends with other lands.\nHis fleet was so big it amazed people around the world.",
+  "why_matters": "Zheng He showed the power and curiosity of ancient China.\nHe helped connect faraway places through peaceful journeys.\nHis travels proved that exploration could be about friendship too.",
+  "questions": [
+    {
+      "q": "What did Zheng He do?",
+      "options": [
+        "Wrote poems",
+        "Fought in battles",
+        "Led ocean voyages",
+        "Built castles"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country was he from?",
+      "options": [
+        "Japan",
+        "India",
+        "China",
+        "Thailand"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What made his ships special?",
+      "options": [
+        "They were tiny",
+        "They had wings",
+        "They were huge and strong",
+        "They were made of gold"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did he sail?",
+      "options": [
+        "Only in China",
+        "To Europe",
+        "Across Asia and Africa",
+        "Around the North Pole"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was one goal of his travels?",
+      "options": [
+        "To start wars",
+        "To find treasure",
+        "To make friends and trade",
+        "To escape"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Zheng He’s ships were so big they could carry over 500 people each!"
+}

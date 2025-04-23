@@ -1,0 +1,62 @@
+{
+  "name": "Joan of Arc",
+  "birth": "1412",
+  "death": "1431 (aged 19)",
+  "origin": "France",
+  "role": "Heroine and military leader",
+  "what_did": "Joan of Arc said she heard voices from God telling her to help France.\nShe led French troops to victory in an important battle during the Hundred Years’ War.\nShe was captured and sadly burned at the stake.",
+  "why_matters": "Joan of Arc is a symbol of bravery and faith.\nShe showed that even a young woman could lead armies and change history.\nShe was later made a saint in the Catholic Church.",
+  "questions": [
+    {
+      "q": "Where was Joan of Arc from?",
+      "options": [
+        "England",
+        "Germany",
+        "France",
+        "Italy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Joan of Arc do?",
+      "options": [
+        "Became queen of France",
+        "Led troops to battle",
+        "Wrote poetry",
+        "Built castles"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How old was Joan of Arc when she died?",
+      "options": [
+        "25",
+        "19",
+        "40",
+        "10"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is Joan of Arc remembered?",
+      "options": [
+        "She became a saint and symbol of courage",
+        "She invented a new weapon",
+        "She traveled the world",
+        "She wrote books"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What voices did Joan of Arc hear?",
+      "options": [
+        "Angels and saints",
+        "Her parents",
+        "Soldiers",
+        "Animals"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Joan wore armor and rode horses into battle — even though she was just a teenager!"
+}

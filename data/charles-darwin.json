@@ -1,0 +1,62 @@
+{
+  "name": "Charles Darwin",
+  "birth": "1809",
+  "death": "1882 (aged 73)",
+  "origin": "England",
+  "role": "Naturalist and scientist",
+  "what_did": "Darwin studied plants, animals, and fossils around the world.\nHe came up with the idea of evolution — that living things change over time to better fit their environments.\nHe wrote a famous book called *On the Origin of Species*.",
+  "why_matters": "Darwin changed how people understand nature and life.\nHis idea of evolution helped explain the variety of life on Earth.\nHis work is a key part of modern science.",
+  "questions": [
+    {
+      "q": "What idea is Darwin known for?",
+      "options": [
+        "Evolution",
+        "Electricity",
+        "Robots",
+        "Time travel"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Darwin study?",
+      "options": [
+        "Stars",
+        "Animals and plants",
+        "Computers",
+        "Mountains"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Darwin from?",
+      "options": [
+        "United States",
+        "France",
+        "England",
+        "India"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Darwin’s famous book?",
+      "options": [
+        "The Book of Animals",
+        "How Life Works",
+        "*On the Origin of Species*",
+        "Earth and Sky"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Darwin’s idea explain?",
+      "options": [
+        "How to cook food",
+        "How life changes over time",
+        "How stars shine",
+        "How to build a house"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Darwin’s journey on the ship *Beagle* lasted almost 5 years — he was only in his 20s!"
+}

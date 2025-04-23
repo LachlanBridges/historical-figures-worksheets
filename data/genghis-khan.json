@@ -1,0 +1,53 @@
+{
+    "name": "Genghis Khan",
+    "birth": "Around 1162",
+    "death": "1227 (aged 65)",
+    "origin": "Mongolia",
+    "role": "Warrior and empire-builder",
+    "what_did": "He united the Mongol tribes under his leadership and began a series of military campaigns.\nHis armies conquered vast territories across Asia and into Europe, building an empire larger than any before.\nBut these conquests were often brutal — cities were burned, and many people were killed.",
+    "why_matters": "Genghis Khan created the largest land empire in history.\nHe opened trade between East and West, helped ideas and goods spread across continents, and created new laws.\nBut his legacy is debated: he changed the world, but often through violence and fear.",
+    "questions": [
+      {
+        "q": "When was Genghis Khan born?",
+        "options": ["1066", "1162", "1245", "1001"],
+        "answer_index": 1
+      },
+      {
+        "q": "Where was Genghis Khan from?",
+        "options": ["China", "India", "Mongolia", "Persia"],
+        "answer_index": 2
+      },
+      {
+        "q": "What is Genghis Khan remembered for?",
+        "options": [
+          "Inventing the telescope",
+          "Founding the Mongol Empire",
+          "Writing poetry",
+          "Sailing to America"
+        ],
+        "answer_index": 1
+      },
+      {
+        "q": "What did Genghis Khan do?",
+        "options": [
+          "Wrote a history book",
+          "Discovered a new planet",
+          "Led brutal conquests across Asia and Europe",
+          "Invented a new writing system"
+        ],
+        "answer_index": 2
+      },
+      {
+        "q": "Why does his legacy matter?",
+        "options": [
+          "He invented the computer",
+          "He united Asia and brought lasting peace",
+          "His empire connected East and West",
+          "He painted famous portraits"
+        ],
+        "answer_index": 2
+      }
+    ],
+    "fun_fact": "Genghis Khan was once captured and enslaved as a boy, but escaped — and went on to become one of the most powerful leaders in history."
+  }
+  

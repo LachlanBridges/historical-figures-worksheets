@@ -1,0 +1,62 @@
+{
+  "name": "Shaka Zulu",
+  "birth": "Around 1787",
+  "death": "1828 (aged ~41)",
+  "origin": "South Africa",
+  "role": "Warrior and king",
+  "what_did": "Shaka led the Zulu people and made their army strong.\nHe created new ways of fighting and trained his warriors well.\nHe helped unite many tribes into a powerful kingdom.",
+  "why_matters": "Shaka changed how wars were fought in Africa.\nHe helped the Zulu people grow strong and proud.",
+  "questions": [
+    {
+      "q": "Where was Shaka Zulu from?",
+      "options": [
+        "South Africa",
+        "Egypt",
+        "Morocco",
+        "Nigeria"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What was Shaka best known for?",
+      "options": [
+        "Cooking",
+        "Singing",
+        "Fighting and leading",
+        "Drawing pictures"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What group did Shaka lead?",
+      "options": [
+        "Zulu",
+        "Maya",
+        "Aztec",
+        "Mongol"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Shaka change?",
+      "options": [
+        "Music and art",
+        "Farming methods",
+        "Ways of fighting",
+        "The alphabet"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Shaka create?",
+      "options": [
+        "A small tribe",
+        "A powerful kingdom",
+        "A new language",
+        "A famous book"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Shaka invented a shorter spear to fight better up close!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "William Shakespeare",
+  "birth": "1564",
+  "death": "1616 (aged 52)",
+  "origin": "Stratford-upon-Avon, England",
+  "role": "Playwright and poet",
+  "what_did": "Shakespeare wrote famous plays like *Romeo and Juliet*, *Hamlet*, and *Macbeth*.\nHe created hundreds of new words and phrases used in English today.\nHis plays mix comedy, tragedy, and deep ideas about life.",
+  "why_matters": "Shakespeare changed English literature forever.\nHis plays are still performed around the world.\nHe showed how powerful words can be.",
+  "questions": [
+    {
+      "q": "What did Shakespeare write?",
+      "options": [
+        "Plays and poems",
+        "Laws",
+        "Maps",
+        "Songs"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was Shakespeare from?",
+      "options": [
+        "France",
+        "Germany",
+        "England",
+        "Italy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Which of these is a play by Shakespeare?",
+      "options": [
+        "*Hamlet*",
+        "*Star Wars*",
+        "*The Hobbit*",
+        "*Frozen*"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What kind of stories did he write?",
+      "options": [
+        "Only funny ones",
+        "All about animals",
+        "Mix of comedy and tragedy",
+        "Science fiction"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Shakespeare still famous?",
+      "options": [
+        "He was rich",
+        "He made movies",
+        "He wrote great stories and shaped the English language",
+        "He sailed around the world"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Shakespeare invented words like 'bedroom' and phrases like 'break the ice'!"
+}

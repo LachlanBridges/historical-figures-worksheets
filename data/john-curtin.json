@@ -1,0 +1,62 @@
+{
+  "name": "John Curtin",
+  "birth": "1885",
+  "death": "1945 (aged 60)",
+  "origin": "Australia",
+  "role": "Prime Minister",
+  "what_did": "John Curtin led Australia during World War II.\nHe made tough decisions to protect the country.\nHe worked closely with the United States and helped defend Australia.",
+  "why_matters": "Curtin was a strong leader in a dangerous time.\nHe helped Australia become more independent.\nMany people say he was one of our greatest Prime Ministers.",
+  "questions": [
+    {
+      "q": "When did Curtin lead Australia?",
+      "options": [
+        "During a gold rush",
+        "During World War II",
+        "During a sports game",
+        "During the Olympics"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What job did Curtin have?",
+      "options": [
+        "Teacher",
+        "Pilot",
+        "Prime Minister",
+        "Artist"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country did he work closely with?",
+      "options": [
+        "Japan",
+        "United States",
+        "Germany",
+        "India"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Curtin do during the war?",
+      "options": [
+        "Wrote poetry",
+        "Made peace signs",
+        "Helped defend Australia",
+        "Moved to another country"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Curtin remembered?",
+      "options": [
+        "He was funny",
+        "He won a medal",
+        "He was a strong war leader",
+        "He painted houses"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Curtin loved reading and once worked as a newspaper editor!"
+}

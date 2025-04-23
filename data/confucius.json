@@ -1,0 +1,62 @@
+{
+  "name": "Confucius",
+  "birth": "551 BCE",
+  "death": "479 BCE (aged 72)",
+  "origin": "China",
+  "role": "Philosopher and teacher",
+  "what_did": "Confucius taught people how to live well in families and societies.\nHe believed in respect, education, and doing what is right.\nHis ideas were written down by his students and shaped Chinese life for thousands of years.",
+  "why_matters": "Confucius influenced how people in East Asia think about family, learning, and leadership.\nHis teachings are still studied today and help people think about good behavior and wisdom.",
+  "questions": [
+    {
+      "q": "What did Confucius teach about?",
+      "options": [
+        "Astronomy",
+        "Respect and good behavior",
+        "Cooking",
+        "Sailing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Confucius from?",
+      "options": [
+        "Japan",
+        "India",
+        "China",
+        "Korea"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Who wrote down his ideas?",
+      "options": [
+        "His friends",
+        "His soldiers",
+        "His students",
+        "His children"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was one important idea of Confucius?",
+      "options": [
+        "Conquer your enemies",
+        "Travel far",
+        "Obey your parents",
+        "Sing loudly"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Confucius still important?",
+      "options": [
+        "He was a king",
+        "His ideas helped many people live better lives",
+        "He built cities",
+        "He invented numbers"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Confucius loved learning so much, he said, 'Learning without thinking is useless!'"
+}

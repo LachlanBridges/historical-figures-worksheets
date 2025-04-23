@@ -1,0 +1,62 @@
+{
+  "name": "Christopher Columbus",
+  "birth": "1451",
+  "death": "1506 (aged 54)",
+  "origin": "Genoa, Italy",
+  "role": "Explorer and navigator",
+  "what_did": "Columbus sailed across the Atlantic Ocean in 1492, trying to find a new route to Asia.\nInstead, he reached the Americas — lands unknown to Europeans at the time.\nHe made four trips and helped open up the New World to Europe.",
+  "why_matters": "Columbus’s voyages changed history by connecting Europe and the Americas.\nThis led to big changes in trade, cultures, and world exploration.\nSome people honor him as a bold explorer, while others remember the harm that followed.",
+  "questions": [
+    {
+      "q": "What ocean did Columbus cross?",
+      "options": [
+        "Pacific",
+        "Atlantic",
+        "Indian",
+        "Arctic"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was Columbus trying to find?",
+      "options": [
+        "A new way to Asia",
+        "Treasure islands",
+        "Africa",
+        "Dinosaurs"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What year did Columbus sail?",
+      "options": [
+        "1066",
+        "1492",
+        "1776",
+        "1620"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How many trips did Columbus make?",
+      "options": [
+        "One",
+        "Four",
+        "Seven",
+        "Two"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is Columbus important?",
+      "options": [
+        "He became king",
+        "He found new animals",
+        "He connected Europe and the Americas",
+        "He wrote a book"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Columbus called the people he met 'Indians' — he thought he had reached Asia!"
+}

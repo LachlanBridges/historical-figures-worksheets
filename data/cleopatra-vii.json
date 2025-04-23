@@ -1,0 +1,62 @@
+{
+  "name": "Cleopatra VII",
+  "birth": "69 BCE",
+  "death": "30 BCE (aged 39)",
+  "origin": "Egypt (Alexandria)",
+  "role": "Queen of Egypt",
+  "what_did": "Cleopatra was the last pharaoh of Ancient Egypt.\nShe was very smart and spoke many languages.\nShe worked with powerful Roman leaders like Julius Caesar and Mark Antony to protect Egypt.",
+  "why_matters": "Cleopatra was one of the most famous female rulers in history.\nShe tried to keep Egypt strong during a time of great change.\nHer life shows how powerful women could be in the ancient world.",
+  "questions": [
+    {
+      "q": "Where did Cleopatra rule?",
+      "options": [
+        "Greece",
+        "Rome",
+        "Egypt",
+        "Persia"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Cleopatra famous for?",
+      "options": [
+        "Being a warrior",
+        "Speaking many languages and leading Egypt",
+        "Building pyramids",
+        "Inventing writing"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who did Cleopatra work with?",
+      "options": [
+        "Socrates and Plato",
+        "Mark Antony and Julius Caesar",
+        "George Washington",
+        "Genghis Khan"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of ruler was Cleopatra?",
+      "options": [
+        "A queen",
+        "A general",
+        "A scientist",
+        "An emperor"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What happened to Cleopatra’s rule?",
+      "options": [
+        "It became part of the Roman Empire",
+        "She won a big war",
+        "She ruled forever",
+        "She gave it to her brother"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Cleopatra may have written books about medicine and science!"
+}

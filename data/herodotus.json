@@ -1,0 +1,62 @@
+{
+  "name": "Herodotus",
+  "birth": "Around 484 BCE",
+  "death": "Around 425 BCE (aged ~59)",
+  "origin": "Halicarnassus, Greece (now Turkey)",
+  "role": "Historian and writer",
+  "what_did": "Herodotus wrote about the wars between Greece and Persia.\nHe collected stories and facts by traveling and talking to people.\nHis book is called 'The Histories' — one of the first history books ever written.",
+  "why_matters": "Herodotus is called the 'Father of History'.\nHe helped people learn about past events by writing them down.\nHis stories taught others about different places and cultures.",
+  "questions": [
+    {
+      "q": "What is Herodotus known for?",
+      "options": [
+        "Writing poems",
+        "Writing history",
+        "Building cities",
+        "Fighting in wars"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Herodotus write?",
+      "options": [
+        "The Odyssey",
+        "The Republic",
+        "The Histories",
+        "The Laws"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Herodotus from?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Halicarnassus",
+        "Babylon"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How did Herodotus learn about history?",
+      "options": [
+        "By fighting in battles",
+        "By reading scrolls",
+        "By traveling and asking people",
+        "By making it up"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Herodotus important?",
+      "options": [
+        "He wrote the first science book",
+        "He created a new language",
+        "He started writing about real events",
+        "He built a famous temple"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Herodotus wrote about flying snakes and giant ants — not all his stories were true!"
+}

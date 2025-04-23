@@ -1,0 +1,62 @@
+{
+  "name": "Isaac Newton",
+  "birth": "1643",
+  "death": "1727 (aged 84)",
+  "origin": "England",
+  "role": "Scientist and mathematician",
+  "what_did": "Newton discovered the law of gravity — how things fall and move.\nHe invented important ideas in physics and calculus.\nHe also studied light and built one of the first reflecting telescopes.",
+  "why_matters": "Newton changed how we understand the universe.\nHis laws still help us send rockets into space.\nHe showed that the world follows rules we can discover through math and science.",
+  "questions": [
+    {
+      "q": "What force did Newton discover?",
+      "options": [
+        "Electricity",
+        "Magnetism",
+        "Gravity",
+        "Friction"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What tool did Newton help improve?",
+      "options": [
+        "Microscope",
+        "Telescope",
+        "Ruler",
+        "Clock"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Newton from?",
+      "options": [
+        "Germany",
+        "France",
+        "England",
+        "Italy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of math did Newton help create?",
+      "options": [
+        "Algebra",
+        "Geometry",
+        "Calculus",
+        "Statistics"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What fruit is Newton’s discovery often linked to?",
+      "options": [
+        "Banana",
+        "Apple",
+        "Orange",
+        "Pear"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "A falling apple supposedly gave Newton the idea for gravity!"
+}

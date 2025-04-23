@@ -1,0 +1,62 @@
+{
+  "name": "Boethius",
+  "birth": "Around 480 CE",
+  "death": "524 CE (aged ~44)",
+  "origin": "Italy",
+  "role": "Philosopher and writer",
+  "what_did": "Boethius wrote 'The Consolation of Philosophy' while in prison.\nThe book is a conversation between him and a woman named Philosophy.\nHe mixed Roman and Greek ideas to help people find peace during hard times.",
+  "why_matters": "Boethius helped keep ancient wisdom alive during a time of chaos.\nHis book was read by many people in the Middle Ages.\nHe showed that even in prison, people can find deep meaning.",
+  "questions": [
+    {
+      "q": "What book did Boethius write?",
+      "options": [
+        "City of God",
+        "The Consolation of Philosophy",
+        "The Meditations",
+        "The Confessions"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Boethius when he wrote his famous book?",
+      "options": [
+        "At a party",
+        "In prison",
+        "In a palace",
+        "At a library"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who did Boethius talk to in his book?",
+      "options": [
+        "A friend",
+        "A queen",
+        "A ghost",
+        "Philosophy"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What did Boethius try to help people find?",
+      "options": [
+        "Money",
+        "Fame",
+        "Peace",
+        "Adventure"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What time did Boethius live in?",
+      "options": [
+        "Ancient Greece",
+        "The Middle Ages",
+        "The Roman Empire’s fall",
+        "Modern times"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "His book was one of the most copied texts in medieval Europe!"
+}

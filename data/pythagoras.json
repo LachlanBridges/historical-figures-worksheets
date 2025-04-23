@@ -1,0 +1,62 @@
+{
+  "name": "Pythagoras",
+  "birth": "Around 570 BCE",
+  "death": "Around 495 BCE (aged ~75)",
+  "origin": "Greece",
+  "role": "Mathematician and philosopher",
+  "what_did": "Pythagoras studied numbers, shapes, and music.\nHe is best known for the Pythagorean Theorem — a rule about triangles.\nHe believed that numbers could explain everything in the world.",
+  "why_matters": "Pythagoras helped start the study of math and science.\nHis ideas about numbers are still taught today.\nHe showed that thinking carefully can help us understand the world.",
+  "questions": [
+    {
+      "q": "What did Pythagoras study?",
+      "options": [
+        "Farming",
+        "Cooking",
+        "Math and music",
+        "Fighting"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is he best known for?",
+      "options": [
+        "Pythagorean Theorem",
+        "Building pyramids",
+        "Writing fairy tales",
+        "Sailing across the sea"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was he from?",
+      "options": [
+        "China",
+        "Egypt",
+        "Greece",
+        "India"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did he believe about numbers?",
+      "options": [
+        "They were boring",
+        "They could explain the world",
+        "They should be banned",
+        "They only helped in shopping"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is he remembered?",
+      "options": [
+        "He was a king",
+        "He helped start math and science",
+        "He discovered new lands",
+        "He trained animals"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Pythagoras and his followers wouldn’t eat beans — they thought beans had souls!"
+}

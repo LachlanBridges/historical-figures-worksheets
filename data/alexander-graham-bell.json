@@ -1,0 +1,62 @@
+{
+  "name": "Alexander Graham Bell",
+  "birth": "1847",
+  "death": "1922 (aged 75)",
+  "origin": "Scotland / United States",
+  "role": "Scientist and inventor",
+  "what_did": "Bell invented the telephone, which let people talk to each other over long distances.\nHe also worked on ways to help deaf people learn to speak.\nHe loved science and kept trying new ideas all his life.",
+  "why_matters": "Bell changed how people communicate.\nHis invention of the telephone made the world feel more connected.\nHe also helped people with hearing problems live better lives.",
+  "questions": [
+    {
+      "q": "What did Alexander Graham Bell invent?",
+      "options": [
+        "The radio",
+        "The telephone",
+        "The television",
+        "The bicycle"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who did Bell try to help?",
+      "options": [
+        "Farmers",
+        "Artists",
+        "Deaf people",
+        "Soldiers"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Bell from?",
+      "options": [
+        "Germany",
+        "Canada",
+        "Scotland",
+        "Italy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Bell remembered?",
+      "options": [
+        "He built big ships",
+        "He taught people to sing",
+        "He invented a way to talk over wires",
+        "He was a famous actor"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Bell's invention do?",
+      "options": [
+        "Cook food faster",
+        "Show pictures on screen",
+        "Let people talk from far away",
+        "Clean water"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Bell's first words on the telephone were: 'Mr. Watson, come here — I want to see you!'"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Sunthorn Phu",
+  "birth": "1786",
+  "death": "1855 (aged 69)",
+  "origin": "Thailand",
+  "role": "Poet and writer",
+  "what_did": "Sunthorn Phu wrote beautiful poems and exciting stories in Thai.\nHe is best known for 'Phra Aphai Mani', a long tale with magic, monsters, and adventures.\nHe became Thailand’s most famous royal poet.",
+  "why_matters": "Sunthorn Phu helped shape Thai language and culture.\nHis stories are still read in schools and loved by many.\nHe showed that poetry can be fun and full of imagination.",
+  "questions": [
+    {
+      "q": "What country was Sunthorn Phu from?",
+      "options": [
+        "Vietnam",
+        "Thailand",
+        "China",
+        "Japan"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Sunthorn Phu write?",
+      "options": [
+        "Poems and stories",
+        "Science books",
+        "Laws and rules",
+        "Maps"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What is his most famous story?",
+      "options": [
+        "The Monkey King",
+        "The Tale of Genji",
+        "Phra Aphai Mani",
+        "The Ramayana"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What made his poems special?",
+      "options": [
+        "They were short and boring",
+        "They had magic and adventure",
+        "They were written in English",
+        "They were about cooking"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is he remembered?",
+      "options": [
+        "He was a king",
+        "He built temples",
+        "He changed Thai poetry forever",
+        "He sang famous songs"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "There is a special day in Thailand called 'Sunthorn Phu Day' to honor his writing!"
+}

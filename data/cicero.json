@@ -1,0 +1,62 @@
+{
+  "name": "Cicero",
+  "birth": "106 BCE",
+  "death": "43 BCE (aged 63)",
+  "origin": "Arpinum, Italy",
+  "role": "Lawyer, writer, and politician",
+  "what_did": "Cicero gave powerful speeches and wrote about laws, justice, and government.\nHe wanted Rome to stay a republic — where people have a say.\nHe was one of the best speakers in Roman history.",
+  "why_matters": "Cicero’s words influenced how people think about freedom and law.\nHe showed how powerful good speaking and writing can be.\nMany leaders later read his works to learn about politics.",
+  "questions": [
+    {
+      "q": "What was Cicero famous for?",
+      "options": [
+        "Building bridges",
+        "Writing poems",
+        "Giving speeches",
+        "Fighting battles"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Cicero from?",
+      "options": [
+        "Rome",
+        "Athens",
+        "Arpinum",
+        "Sparta"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of government did Cicero support?",
+      "options": [
+        "Empire",
+        "Monarchy",
+        "Republic",
+        "Dictatorship"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Cicero’s job?",
+      "options": [
+        "Artist",
+        "Soldier",
+        "Lawyer and speaker",
+        "Builder"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Cicero still read today?",
+      "options": [
+        "His writing teaches math",
+        "His speeches teach freedom and law",
+        "He wrote funny stories",
+        "He invented Latin"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Cicero’s name means 'chickpea' — it may have been his family’s old farm crop!"
+}

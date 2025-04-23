@@ -1,0 +1,62 @@
+{
+  "name": "Mom Rajawongse Kukrit Pramoj",
+  "birth": "1911",
+  "death": "1995 (aged 84)",
+  "origin": "Thailand",
+  "role": "Prime Minister, writer, and artist",
+  "what_did": "Kukrit was a Thai leader, writer, and actor.\nHe wrote famous books, helped make the Thai language easier to learn, and cared deeply about Thai traditions.\nHe was even in a Hollywood movie!",
+  "why_matters": "He showed that one person can be smart in many ways — as a leader, a writer, and a culture protector.\nHe helped bring Thai ideas to the world.",
+  "questions": [
+    {
+      "q": "What did Kukrit do besides being Prime Minister?",
+      "options": [
+        "Farming",
+        "Writing and acting",
+        "Car racing",
+        "Painting houses"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was Kukrit from?",
+      "options": [
+        "Thailand",
+        "Japan",
+        "China",
+        "England"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What movie did Kukrit act in?",
+      "options": [
+        "Star Wars",
+        "The King and I",
+        "The Ugly American",
+        "Frozen"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Kukrit care about?",
+      "options": [
+        "Fast food",
+        "Science fiction",
+        "Thai traditions",
+        "Sports"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of books did Kukrit write?",
+      "options": [
+        "Comic books",
+        "Fairy tales",
+        "Novels and history",
+        "Recipe books"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "He once hosted the U.S. President at his traditional Thai home!"
+}

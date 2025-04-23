@@ -1,0 +1,62 @@
+{
+  "name": "Otto von Bismarck",
+  "birth": "1815",
+  "death": "1898 (aged 83)",
+  "origin": "Germany",
+  "role": "Politician and unifier",
+  "what_did": "Bismarck helped bring together many small German states into one country.\nHe was very clever in using speeches and wars to reach his goals.\nHe also made health care and schools better in Germany.",
+  "why_matters": "He created the country of Germany as we know it today.\nBismarck showed how leaders can unite people and plan for the future.",
+  "questions": [
+    {
+      "q": "What country did Bismarck help create?",
+      "options": [
+        "France",
+        "Italy",
+        "Germany",
+        "Poland"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "How did Bismarck bring people together?",
+      "options": [
+        "With candy",
+        "With speeches and planning",
+        "By dancing",
+        "By building trains"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Bismarck improve?",
+      "options": [
+        "Sports and games",
+        "Cooking and baking",
+        "Health care and schools",
+        "Fishing and farming"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Bismarck from?",
+      "options": [
+        "Austria",
+        "England",
+        "Germany",
+        "Russia"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Bismarck good at?",
+      "options": [
+        "Acting in plays",
+        "Making art",
+        "Planning and leading",
+        "Running fast"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "People called him the 'Iron Chancellor' because of how strong he ruled!"
+}

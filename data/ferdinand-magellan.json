@@ -1,0 +1,62 @@
+{
+  "name": "Ferdinand Magellan",
+  "birth": "Around 1480",
+  "death": "1521 (aged ~41)",
+  "origin": "Portugal",
+  "role": "Explorer and navigator",
+  "what_did": "Magellan led the first expedition to sail all the way around the world.\nHe proved the Earth could be circled by ship, even though he didn’t survive the whole journey.\nHis crew finished the trip after he died in the Philippines.",
+  "why_matters": "Magellan’s voyage showed how big and connected the world really is.\nIt helped people understand Earth’s shape and size.\nHis journey opened new paths for global trade and exploration.",
+  "questions": [
+    {
+      "q": "What did Magellan try to do?",
+      "options": [
+        "Fly over the ocean",
+        "Build a city",
+        "Sail around the world",
+        "Climb the tallest mountain"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Magellan from?",
+      "options": [
+        "Spain",
+        "Italy",
+        "England",
+        "Portugal"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "Did Magellan finish the trip?",
+      "options": [
+        "Yes",
+        "No",
+        "He got lost",
+        "He turned back halfway"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did his journey prove?",
+      "options": [
+        "The Earth is flat",
+        "The ocean is endless",
+        "The Earth can be sailed around",
+        "You can live on the Moon"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did Magellan die?",
+      "options": [
+        "Spain",
+        "India",
+        "Philippines",
+        "Africa"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Even though Magellan died before the journey ended, his crew still finished sailing around the whole planet!"
+}

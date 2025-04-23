@@ -1,0 +1,62 @@
+{
+  "name": "Plato",
+  "birth": "Around 427 BCE",
+  "death": "Around 347 BCE (aged ~80)",
+  "origin": "Athens, Greece",
+  "role": "Philosopher and writer",
+  "what_did": "Plato was a student of Socrates and wrote down many of his ideas.\nHe started a school called the Academy — one of the first universities.\nHe believed in a world of perfect 'forms' — like perfect justice or perfect beauty.",
+  "why_matters": "Plato helped preserve and grow philosophy.\nHe asked big questions about truth, justice, and the soul.\nHis writings shaped how people think for thousands of years.",
+  "questions": [
+    {
+      "q": "Who was Plato’s teacher?",
+      "options": [
+        "Aristotle",
+        "Socrates",
+        "Alexander",
+        "Pythagoras"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Plato start?",
+      "options": [
+        "A temple",
+        "A kingdom",
+        "A school called the Academy",
+        "A war"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Plato believe in?",
+      "options": [
+        "Perfect forms like justice",
+        "Only what he could touch",
+        "Just magic",
+        "Nothing at all"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Plato write?",
+      "options": [
+        "Poems",
+        "Plays",
+        "Philosophy ideas and dialogues",
+        "Laws"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did Plato live?",
+      "options": [
+        "Egypt",
+        "Rome",
+        "Athens",
+        "Persia"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Plato’s real name might have been Aristocles — ‘Plato’ was his nickname!"
+}

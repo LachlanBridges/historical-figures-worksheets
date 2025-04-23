@@ -1,0 +1,62 @@
+{
+  "name": "Suleiman the Magnificent",
+  "birth": "1494",
+  "death": "1566 (aged 72)",
+  "origin": "Ottoman Empire (modern Turkey)",
+  "role": "Sultan (ruler) and lawmaker",
+  "what_did": "Suleiman ruled the Ottoman Empire at its strongest.\nHe made fair laws, supported artists and builders, and led many military victories.\nPeople called him 'the Lawgiver' for his fairness.",
+  "why_matters": "Suleiman showed that a powerful ruler could also be wise and just.\nHe helped shape law, art, and architecture in the Muslim world.\nHis rule was seen as a golden age of the empire.",
+  "questions": [
+    {
+      "q": "What empire did Suleiman rule?",
+      "options": [
+        "Roman",
+        "Ottoman",
+        "Mongol",
+        "British"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What nickname did Suleiman have?",
+      "options": [
+        "The Builder",
+        "The Sailor",
+        "The Lawgiver",
+        "The Bold"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Suleiman support?",
+      "options": [
+        "Art and law",
+        "Horse racing",
+        "Flying machines",
+        "Treasure hunting"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was the Ottoman Empire based?",
+      "options": [
+        "France",
+        "Italy",
+        "Turkey",
+        "India"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of age was Suleiman’s rule?",
+      "options": [
+        "A dark time",
+        "A golden age",
+        "An ice age",
+        "A robot age"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Suleiman wrote poetry under a secret name: 'Muhibbi'!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Alhazen",
+  "birth": "Around 965",
+  "death": "1040 (aged ~75)",
+  "origin": "Iraq (Basra)",
+  "role": "Scientist and thinker",
+  "what_did": "Alhazen studied light, vision, and how the eyes work.\nHe showed that we see because light enters our eyes, not because eyes send out rays.\nHe did real experiments to test his ideas, like modern scientists do.",
+  "why_matters": "Alhazen helped create the science method we use today.\nHe made big steps in understanding optics and vision.\nHis work was a bridge between ancient and modern science.",
+  "questions": [
+    {
+      "q": "What did Alhazen study?",
+      "options": [
+        "Vision and light",
+        "Music and dance",
+        "History and myths",
+        "Cooking and food"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "How did Alhazen test his ideas?",
+      "options": [
+        "He guessed",
+        "He used magic",
+        "He did experiments",
+        "He asked friends"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did he discover about eyes?",
+      "options": [
+        "They glow",
+        "They hear sounds",
+        "They shoot light",
+        "They receive light"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "Where was Alhazen from?",
+      "options": [
+        "India",
+        "Greece",
+        "Iraq",
+        "Spain"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why is Alhazen important?",
+      "options": [
+        "He built pyramids",
+        "He invented paper",
+        "He helped start modern science",
+        "He wrote fairy tales"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Alhazen once pretended to be crazy to avoid working for a ruler he disagreed with!"
+}

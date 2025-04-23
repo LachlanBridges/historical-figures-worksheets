@@ -1,0 +1,62 @@
+{
+  "name": "Louis XIV",
+  "birth": "1638",
+  "death": "1715 (aged 76)",
+  "origin": "France",
+  "role": "King of France",
+  "what_did": "Louis XIV ruled France for 72 years — longer than any other European king.\nHe built the famous Palace of Versailles and made France very powerful.\nHe called himself the 'Sun King' because he believed everything revolved around him.",
+  "why_matters": "Louis XIV helped shape the idea of absolute monarchy, where the king had all the power.\nHis reign changed how kings and governments worked in Europe.\nHe also supported art, music, and fashion.",
+  "questions": [
+    {
+      "q": "What was Louis XIV’s nickname?",
+      "options": [
+        "The Moon King",
+        "The Lion King",
+        "The Sun King",
+        "The Star King"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What famous place did he build?",
+      "options": [
+        "The Eiffel Tower",
+        "The Palace of Versailles",
+        "The Colosseum",
+        "The Louvre Museum"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How long did Louis XIV rule?",
+      "options": [
+        "50 years",
+        "72 years",
+        "10 years",
+        "30 years"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country did he rule?",
+      "options": [
+        "Spain",
+        "Italy",
+        "France",
+        "Germany"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did he support?",
+      "options": [
+        "Science and rockets",
+        "Art, music, and fashion",
+        "Farming and fishing",
+        "Exploring space"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Louis XIV started wearing high-heeled shoes to look taller — and made them fashionable!"
+}

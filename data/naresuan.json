@@ -1,0 +1,62 @@
+{
+  "name": "King Naresuan the Great",
+  "birth": "1555",
+  "death": "1605 (aged 50)",
+  "origin": "Ayutthaya, Thailand",
+  "role": "Warrior king and liberator",
+  "what_did": "King Naresuan fought to free Thailand from Burmese control.\nHe is famous for his bravery in battle — especially when he won a fight on elephant-back!\nHe protected the Thai people and made the kingdom stronger.",
+  "why_matters": "He is a national hero who helped keep Thailand independent.\nHis courage inspired many, and he is honored for defending the country.",
+  "questions": [
+    {
+      "q": "What is King Naresuan known for?",
+      "options": [
+        "Writing songs",
+        "Winning a battle on elephants",
+        "Flying a plane",
+        "Finding gold"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who did Naresuan fight against?",
+      "options": [
+        "Japan",
+        "India",
+        "Burma",
+        "Vietnam"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "When did Naresuan become king?",
+      "options": [
+        "1234",
+        "1600",
+        "1590",
+        "1701"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of king was Naresuan?",
+      "options": [
+        "Peaceful and shy",
+        "Brave and strong",
+        "Funny and lazy",
+        "Scared and weak"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Naresuan from?",
+      "options": [
+        "Chiang Mai",
+        "Sukhothai",
+        "Ayutthaya",
+        "Bangkok"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "King Naresuan fought a famous duel on elephants — and won!"
+}

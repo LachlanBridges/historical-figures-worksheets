@@ -1,0 +1,62 @@
+{
+  "name": "Charles II of England",
+  "birth": "1630",
+  "death": "1685 (aged 55)",
+  "origin": "England",
+  "role": "King of England",
+  "what_did": "Charles II became king after years of England having no king.\nHe brought back the monarchy with more balance and fun.\nPeople called him the 'Merry Monarch' because he loved parties, theater, and music.",
+  "why_matters": "Charles helped heal England after a civil war.\nHe accepted some limits on royal power and worked with Parliament.\nHe showed that rulers could learn from the past.",
+  "questions": [
+    {
+      "q": "What was Charles II known as?",
+      "options": [
+        "The Sad King",
+        "The Merry Monarch",
+        "The Brave Warrior",
+        "The Quiet Prince"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country did Charles II rule?",
+      "options": [
+        "France",
+        "Germany",
+        "Scotland",
+        "England"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What did Charles II bring back?",
+      "options": [
+        "The monarchy",
+        "The army",
+        "The school system",
+        "The navy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Charles II enjoy?",
+      "options": [
+        "Theater and music",
+        "Hiking and fishing",
+        "Science and math",
+        "Sailing and dancing"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "How was Charles II different from Charles I?",
+      "options": [
+        "He worked with Parliament",
+        "He didn’t like books",
+        "He traveled the world",
+        "He gave up being king"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Charles II kept a pet spaniel — the breed is now named after him!"
+}

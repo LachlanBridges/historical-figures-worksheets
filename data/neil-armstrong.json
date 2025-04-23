@@ -1,0 +1,62 @@
+{
+  "name": "Neil Armstrong",
+  "birth": "1930",
+  "death": "2012 (aged 82)",
+  "origin": "United States",
+  "role": "Astronaut and pilot",
+  "what_did": "Armstrong was the first human to walk on the Moon in 1969.\nHe flew the Apollo 11 mission and said the famous words, 'That’s one small step for man, one giant leap for mankind.'\nHe trained as a test pilot before becoming an astronaut.",
+  "why_matters": "Armstrong showed that humans could travel beyond Earth.\nHis Moon landing was a huge moment in space history.\nHe inspired people to dream big and reach for the stars.",
+  "questions": [
+    {
+      "q": "What did Neil Armstrong do?",
+      "options": [
+        "Invented the airplane",
+        "Was the first man on the Moon",
+        "Built a rocket",
+        "Landed on Mars"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was Armstrong from?",
+      "options": [
+        "Canada",
+        "Russia",
+        "Germany",
+        "United States"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What did Armstrong say on the Moon?",
+      "options": [
+        "'Wow, it’s cold!'",
+        "'We made it!'",
+        "'That’s one small step for man...'",
+        "'Blast off!'"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What year did he walk on the Moon?",
+      "options": [
+        "1959",
+        "1969",
+        "1979",
+        "1989"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was the name of his space mission?",
+      "options": [
+        "Apollo 11",
+        "Voyager 1",
+        "Gemini 4",
+        "Mars Express"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Neil Armstrong carried a piece of the Wright brothers’ first airplane with him to the Moon!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Alexander the Great",
+  "birth": "356 BCE",
+  "death": "323 BCE (aged 32)",
+  "origin": "Macedonia (Greece)",
+  "role": "King and conqueror",
+  "what_did": "Alexander became king at just 20 years old.\nHe led his army across Asia and conquered one of the biggest empires ever.\nHe never lost a battle and spread Greek ideas far and wide.",
+  "why_matters": "Alexander helped mix cultures from East and West.\nHe founded many cities and made Greek learning important in many lands.\nPeople studied his tactics and stories for centuries.",
+  "questions": [
+    {
+      "q": "How old was Alexander when he became king?",
+      "options": [
+        "20",
+        "40",
+        "15",
+        "60"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Alexander do?",
+      "options": [
+        "Invented maps",
+        "Wrote stories",
+        "Conquered many lands",
+        "Painted famous art"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is Alexander remembered for?",
+      "options": [
+        "Sailing to America",
+        "Building the Great Wall",
+        "Never losing a battle",
+        "Becoming a monk"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Alexander help spread?",
+      "options": [
+        "Roman law",
+        "Greek ideas",
+        "Chinese food",
+        "Indian music"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Alexander from?",
+      "options": [
+        "Persia",
+        "Rome",
+        "Macedonia",
+        "Egypt"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Alexander named over 20 cities after himself — and one after his horse!"
+}

@@ -1,0 +1,42 @@
+{
+  "name": "Harold Holt",
+  "birth": "1908",
+  "death": "1967 (aged 59)",
+  "origin": "Australia",
+  "role": "Prime Minister",
+  "what_did": "Harold Holt was Australia’s Prime Minister in the 1960s.\nHe supported new laws for Aboriginal rights and helped Australia become closer to the United States.\nHe disappeared while swimming at the beach and was never found.",
+  "why_matters": "Holt led Australia through big changes, especially in rights and world relationships.\nHis sudden disappearance shocked the country.",
+  "questions": [
+    {
+      "q": "What happened to Harold Holt?",
+      "options": [
+        "He moved to America",
+        "He disappeared while swimming",
+        "He became a singer",
+        "He flew to the Moon"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country did Holt lead?",
+      "options": [
+        "Australia",
+        "England",
+        "USA",
+        "Canada"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Holt support?",
+      "options": [
+        "Building pyramids",
+        "Aboriginal rights",
+        "TV shows",
+        "Painting houses"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "There’s a swimming pool in Melbourne named after Harold Holt — even though he vanished while swimming!"
+}

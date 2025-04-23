@@ -1,0 +1,62 @@
+{
+  "name": "Constantine the Great",
+  "birth": "Around 272 CE",
+  "death": "337 CE (aged ~65)",
+  "origin": "Roman Empire",
+  "role": "Roman Emperor",
+  "what_did": "Constantine became the first Roman emperor to become a Christian.\nHe made it legal to follow Christianity and helped it grow across the empire.\nHe also built a new city, Constantinople, which became very important.",
+  "why_matters": "Constantine changed history by helping Christianity spread and survive.\nHis city, Constantinople, lasted for over 1,000 years.\nHe showed how one leader can shape religion and culture.",
+  "questions": [
+    {
+      "q": "What religion did Constantine support?",
+      "options": [
+        "Hinduism",
+        "Islam",
+        "Christianity",
+        "Buddhism"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What city did he build?",
+      "options": [
+        "Athens",
+        "Rome",
+        "Constantinople",
+        "London"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What empire did he rule?",
+      "options": [
+        "Mongol",
+        "Roman",
+        "Egyptian",
+        "Persian"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why is he important?",
+      "options": [
+        "He won a cooking contest",
+        "He started a big war",
+        "He helped Christianity grow",
+        "He invented math"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was his title?",
+      "options": [
+        "King",
+        "Pharaoh",
+        "Emperor",
+        "Sultan"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Constantinople was named after him and became one of the world’s most famous cities!"
+}

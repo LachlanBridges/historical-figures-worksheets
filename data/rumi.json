@@ -1,0 +1,62 @@
+{
+  "name": "Rumi",
+  "birth": "1207",
+  "death": "1273 (aged 66)",
+  "origin": "Persia (now Afghanistan/Iran)",
+  "role": "Poet and spiritual teacher",
+  "what_did": "Rumi wrote poems about love, the soul, and the universe.\nHe believed in kindness, peace, and the deep connection between people and God.\nHis words have been shared across the world for hundreds of years.",
+  "why_matters": "Rumi’s poems have touched people in many languages and cultures.\nHe helps readers think about love, purpose, and the beauty of life.\nHe is one of the most read poets in the world.",
+  "questions": [
+    {
+      "q": "What did Rumi write?",
+      "options": [
+        "Books on war",
+        "Poems about love and the soul",
+        "Science papers",
+        "Jokes"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Rumi from?",
+      "options": [
+        "Italy",
+        "Persia",
+        "India",
+        "Spain"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Rumi believe in?",
+      "options": [
+        "Fighting battles",
+        "Making money",
+        "Peace and love",
+        "Cooking and farming"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why are his poems still read?",
+      "options": [
+        "They are funny",
+        "They talk about deep feelings and wisdom",
+        "They are written in code",
+        "They rhyme with 'cat'"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of writing did Rumi do?",
+      "options": [
+        "Poetry",
+        "Plays",
+        "Newspapers",
+        "Encyclopedias"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Some people who follow Rumi’s ideas dance in a circle to feel closer to God — they’re called whirling dervishes!"
+}

@@ -1,0 +1,62 @@
+{
+  "name": "Euclid",
+  "birth": "Around 300 BCE",
+  "death": "Exact date unknown",
+  "origin": "Greece (lived in Egypt)",
+  "role": "Mathematician",
+  "what_did": "Euclid wrote a book called 'The Elements' all about shapes, lines, and angles.\nHe explained how geometry works and taught people how to prove things step by step.\nHis book was used in schools for over 2,000 years!",
+  "why_matters": "Euclid made geometry easy to understand.\nHe showed that math could be built from clear rules.\nHis work helped people learn logic and problem-solving.",
+  "questions": [
+    {
+      "q": "What did Euclid write about?",
+      "options": [
+        "Animals and plants",
+        "Shapes and math",
+        "Stories and poems",
+        "The stars"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was his famous book called?",
+      "options": [
+        "The Elements",
+        "The Odyssey",
+        "The Numbers",
+        "The Laws"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where did Euclid teach?",
+      "options": [
+        "China",
+        "India",
+        "Egypt",
+        "Italy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What subject did he help create?",
+      "options": [
+        "Geometry",
+        "Chemistry",
+        "Astronomy",
+        "Music"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "How long was his book used?",
+      "options": [
+        "50 years",
+        "100 years",
+        "2,000 years",
+        "10 years"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Euclid’s book was used so much that it became one of the most printed books ever!"
+}

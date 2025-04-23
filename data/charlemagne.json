@@ -1,0 +1,62 @@
+{
+  "name": "Charlemagne",
+  "birth": "742",
+  "death": "814 (aged 72)",
+  "origin": "Europe (Frankish Kingdom)",
+  "role": "King and emperor",
+  "what_did": "Charlemagne united much of Western Europe under one rule.\nHe was crowned 'Emperor of the Romans' by the Pope.\nHe built schools and helped protect learning and culture during a tough time.",
+  "why_matters": "Charlemagne helped shape the idea of Europe.\nHe showed how a ruler could support both learning and faith.\nMany later kings looked to him as a model of good leadership.",
+  "questions": [
+    {
+      "q": "What title did the Pope give Charlemagne?",
+      "options": [
+        "Emperor of the Romans",
+        "King of France",
+        "Chief of Vikings",
+        "Father of Dragons"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What did Charlemagne support?",
+      "options": [
+        "Treasure hunting",
+        "Building ships",
+        "Learning and faith",
+        "Making war only"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did Charlemagne rule?",
+      "options": [
+        "China",
+        "India",
+        "Europe",
+        "Egypt"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Charlemagne build to help people learn?",
+      "options": [
+        "Markets",
+        "Armies",
+        "Schools",
+        "Temples"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why do many people remember Charlemagne?",
+      "options": [
+        "He was a wizard",
+        "He ruled kindly and wisely",
+        "He flew a dragon",
+        "He invented chess"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "Charlemagne could speak many languages — but he struggled to write!"
+}

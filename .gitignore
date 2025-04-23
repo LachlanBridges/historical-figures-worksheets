@@ -1,0 +1,19 @@
+# Output folders
+/output/
+*.pdf
+*.aux
+*.log
+*.out
+*.toc
+
+# System/Editor files
+.DS_Store
+Thumbs.db
+
+# Python
+.venv
+__pycache__/
+*.pyc
+.env
+
+repomix-output.txt

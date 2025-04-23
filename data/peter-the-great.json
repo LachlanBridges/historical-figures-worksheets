@@ -1,0 +1,62 @@
+{
+  "name": "Peter the Great",
+  "birth": "1672",
+  "death": "1725 (aged 52)",
+  "origin": "Russia",
+  "role": "Czar of Russia",
+  "what_did": "Peter the Great worked hard to make Russia more modern.\nHe traveled to Europe to learn about ships, cities, and science.\nHe built a new capital city, St. Petersburg, to connect Russia with the West.",
+  "why_matters": "Peter helped turn Russia into a strong and modern country.\nHe encouraged learning, building, and exploring new ideas.\nHe showed that leaders could change their whole country by learning from others.",
+  "questions": [
+    {
+      "q": "What country did Peter rule?",
+      "options": [
+        "Russia",
+        "Germany",
+        "China",
+        "Italy"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What city did he build?",
+      "options": [
+        "Moscow",
+        "Paris",
+        "St. Petersburg",
+        "Berlin"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why did Peter travel to Europe?",
+      "options": [
+        "To go on vacation",
+        "To learn about modern ideas",
+        "To meet kings",
+        "To go shopping"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Peter want for Russia?",
+      "options": [
+        "More forests",
+        "A bigger army only",
+        "To stay the same",
+        "To become modern"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What kind of leader was Peter?",
+      "options": [
+        "One who liked learning and building",
+        "One who loved sleeping",
+        "One who hated travel",
+        "One who never changed anything"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Peter the Great once worked undercover in a shipyard to learn how to build boats!"
+}

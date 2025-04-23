@@ -1,0 +1,62 @@
+{
+  "name": "Tokugawa Ieyasu",
+  "birth": "1543",
+  "death": "1616 (aged 73)",
+  "origin": "Japan",
+  "role": "Shogun and unifier",
+  "what_did": "Ieyasu brought peace to Japan after many years of fighting.\nHe became the first shogun of the Tokugawa family and ruled the country.\nHe made rules to keep the peace and helped Japan stay strong for over 250 years.",
+  "why_matters": "Tokugawa Ieyasu helped Japan become more peaceful and stable.\nHis leadership began a long time of calm and order, with better farming, learning, and culture.",
+  "questions": [
+    {
+      "q": "What country did Tokugawa Ieyasu lead?",
+      "options": [
+        "China",
+        "Japan",
+        "Korea",
+        "Vietnam"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was Ieyasu's title?",
+      "options": [
+        "Emperor",
+        "Shogun",
+        "King",
+        "General"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Ieyasu bring to Japan?",
+      "options": [
+        "More wars",
+        "Peace and order",
+        "New animals",
+        "Rainstorms"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How long did the Tokugawa family rule?",
+      "options": [
+        "10 years",
+        "50 years",
+        "Over 250 years",
+        "5 years"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was life like under Ieyasu?",
+      "options": [
+        "Full of battles",
+        "Very unsafe",
+        "Peaceful and stable",
+        "Filled with pirates"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "He loved falcon hunting and wrote rules for how to treat animals!"
+}

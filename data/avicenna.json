@@ -1,0 +1,62 @@
+{
+  "name": "Avicenna",
+  "birth": "980",
+  "death": "1037 (aged 57)",
+  "origin": "Persia (now Uzbekistan)",
+  "role": "Doctor and philosopher",
+  "what_did": "Avicenna wrote many books on medicine, science, and philosophy.\nHis book 'The Canon of Medicine' was used by doctors for hundreds of years.\nHe believed that knowledge could heal both the body and the mind.",
+  "why_matters": "Avicenna helped medicine become a science.\nHe mixed old and new ideas to help people stay healthy.\nHis thinking influenced both the Islamic world and Europe.",
+  "questions": [
+    {
+      "q": "What was Avicenna’s job?",
+      "options": [
+        "Artist",
+        "Doctor and thinker",
+        "Soldier",
+        "King"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What famous book did he write?",
+      "options": [
+        "The Book of Kings",
+        "The Canon of Medicine",
+        "The Elements",
+        "The Healing Light"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did he believe about knowledge?",
+      "options": [
+        "It makes you sleepy",
+        "It’s only for fun",
+        "It can heal",
+        "It should be secret"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What country was he from?",
+      "options": [
+        "Greece",
+        "China",
+        "Persia",
+        "France"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What subjects did he write about?",
+      "options": [
+        "Music and art",
+        "War and battles",
+        "Medicine and science",
+        "Games and sports"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Avicenna could recite the entire Quran by age 10 and became a doctor at just 16!"
+}

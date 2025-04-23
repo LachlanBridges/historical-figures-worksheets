@@ -1,0 +1,62 @@
+{
+  "name": "Saladin",
+  "birth": "1137",
+  "death": "1193 (aged 56)",
+  "origin": "Kurdish lands (modern Iraq/Syria)",
+  "role": "Warrior and leader",
+  "what_did": "Saladin was a Muslim leader who fought against the Crusaders.\nHe took back Jerusalem and was known for being fair, even to his enemies.\nHe united many Muslim lands under his rule.",
+  "why_matters": "Saladin became famous for his courage and kindness.\nEven people who fought him respected him.\nHe showed that a leader can be brave and honorable.",
+  "questions": [
+    {
+      "q": "What city did Saladin take back?",
+      "options": [
+        "Cairo",
+        "Mecca",
+        "Jerusalem",
+        "Baghdad"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What religion did Saladin follow?",
+      "options": [
+        "Christianity",
+        "Islam",
+        "Judaism",
+        "Buddhism"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was Saladin known for?",
+      "options": [
+        "Being rich",
+        "Being fair and brave",
+        "Being funny",
+        "Being quiet"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Who did Saladin fight?",
+      "options": [
+        "The Mongols",
+        "The Romans",
+        "The Crusaders",
+        "The Vikings"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What kind of leader was Saladin?",
+      "options": [
+        "Cruel",
+        "Lazy",
+        "Kind and strong",
+        "Confused"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "When he died, he had little money left — he gave most of it away to help others!"
+}

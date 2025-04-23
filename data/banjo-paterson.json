@@ -1,0 +1,62 @@
+{
+  "name": "Banjo Paterson",
+  "birth": "1864",
+  "death": "1941 (aged 76)",
+  "origin": "Australia",
+  "role": "Poet and journalist",
+  "what_did": "Banjo Paterson wrote poems and songs about the Australian bush.\nHe is best known for 'Waltzing Matilda' and 'The Man from Snowy River'.\nHis writing helped shape Australia’s national identity.",
+  "why_matters": "Banjo’s poems made Australians proud of their land and way of life.\nHe showed how powerful storytelling can be.\nMany of his works are still loved today.",
+  "questions": [
+    {
+      "q": "What did Banjo Paterson write?",
+      "options": [
+        "Science books",
+        "Bush poems and songs",
+        "Fairy tales",
+        "Cookbooks"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What is one of Banjo’s famous songs?",
+      "options": [
+        "Advance Australia Fair",
+        "Waltzing Matilda",
+        "Happy Birthday",
+        "Jingle Bells"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What country was he from?",
+      "options": [
+        "England",
+        "New Zealand",
+        "Australia",
+        "Canada"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did he write about?",
+      "options": [
+        "Cities and technology",
+        "The Australian bush",
+        "The ocean",
+        "Castles"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why do people remember him?",
+      "options": [
+        "He painted famous pictures",
+        "He taught math",
+        "His poems shaped Aussie identity",
+        "He built the Opera House"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Banjo’s real name was Andrew — 'Banjo' was his horse’s name!"
+}

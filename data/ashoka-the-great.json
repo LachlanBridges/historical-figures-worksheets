@@ -1,0 +1,62 @@
+{
+  "name": "Ashoka the Great",
+  "birth": "Around 304 BCE",
+  "death": "Around 232 BCE (aged ~72)",
+  "origin": "India",
+  "role": "Emperor and Buddhist leader",
+  "what_did": "Ashoka ruled a large empire in India.\nAfter a big war, he became peaceful and followed Buddhism.\nHe built roads, schools, and hospitals, and spread messages of kindness and non-violence.",
+  "why_matters": "Ashoka showed that rulers could change and care deeply for their people.\nHe helped Buddhism grow across Asia.\nHis ideas about peace and good rule still inspire leaders today.",
+  "questions": [
+    {
+      "q": "What did Ashoka follow after the war?",
+      "options": [
+        "Christianity",
+        "Hinduism",
+        "Buddhism",
+        "Judaism"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Ashoka build?",
+      "options": [
+        "Castles",
+        "Statues of himself",
+        "Roads and hospitals",
+        "Forts"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where did Ashoka rule?",
+      "options": [
+        "China",
+        "India",
+        "Greece",
+        "Japan"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Ashoka believe in?",
+      "options": [
+        "War",
+        "Kindness and peace",
+        "Building armies",
+        "Treasure hunting"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of messages did Ashoka spread?",
+      "options": [
+        "Funny jokes",
+        "Magic spells",
+        "Messages of peace",
+        "Secret codes"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Ashoka carved his messages on rocks and pillars so everyone could see them!"
+}

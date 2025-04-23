@@ -1,0 +1,62 @@
+{
+  "name": "Aristotle",
+  "birth": "384 BCE",
+  "death": "322 BCE (aged 62)",
+  "origin": "Stagira, Greece",
+  "role": "Philosopher and scientist",
+  "what_did": "Aristotle studied many things: animals, planets, logic, and how people live.\nHe was a student of Plato and later taught Alexander the Great.\nHe wanted to understand the world by observing it carefully and asking why things happen.",
+  "why_matters": "Aristotle's ideas shaped science, logic, and philosophy for centuries.\nHe helped people learn to think clearly and ask smart questions.\nMany of his ideas were used for over 1,000 years!",
+  "questions": [
+    {
+      "q": "Who taught Aristotle?",
+      "options": [
+        "Plato",
+        "Socrates",
+        "Homer",
+        "Pythagoras"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Who did Aristotle teach?",
+      "options": [
+        "Julius Caesar",
+        "Alexander the Great",
+        "Leonidas",
+        "Euclid"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Aristotle study?",
+      "options": [
+        "Only animals",
+        "Only planets",
+        "Many things, like science and logic",
+        "Only numbers"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Aristotle born?",
+      "options": [
+        "Rome",
+        "Stagira",
+        "Athens",
+        "Delphi"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "How did Aristotle learn about the world?",
+      "options": [
+        "By guessing",
+        "By praying",
+        "By observing and asking why",
+        "By reading myths"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Aristotle’s writings covered almost every subject — even how bees build hives!"
+}

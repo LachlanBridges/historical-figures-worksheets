@@ -1,0 +1,62 @@
+{
+  "name": "Marcus Aurelius",
+  "birth": "121 CE",
+  "death": "180 CE (aged 59)",
+  "origin": "Rome, Italy",
+  "role": "Roman emperor and philosopher",
+  "what_did": "Marcus Aurelius was a powerful Roman emperor who ruled with wisdom.\nHe wrote a book called 'Meditations' full of calm thoughts and advice.\nHe followed Stoicism — the idea that we should stay calm and do our duty.",
+  "why_matters": "Marcus showed that a leader could also be wise and thoughtful.\nHis book still teaches people how to stay strong in hard times.\nHe’s remembered as a 'philosopher king'.",
+  "questions": [
+    {
+      "q": "What did Marcus Aurelius rule?",
+      "options": [
+        "Greece",
+        "Rome",
+        "Persia",
+        "Egypt"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What book did Marcus write?",
+      "options": [
+        "The Republic",
+        "Meditations",
+        "The Iliad",
+        "The Histories"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Marcus believe people should do?",
+      "options": [
+        "Travel a lot",
+        "Sing and dance",
+        "Stay calm and do their duty",
+        "Eat special foods"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What was Marcus known as?",
+      "options": [
+        "The warrior prince",
+        "The philosopher king",
+        "The silent soldier",
+        "The last emperor"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What was Marcus Aurelius’s way of thinking called?",
+      "options": [
+        "Epicureanism",
+        "Stoicism",
+        "Romanticism",
+        "Platonism"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "He wrote 'Meditations' as private notes — he didn’t plan to publish them!"
+}

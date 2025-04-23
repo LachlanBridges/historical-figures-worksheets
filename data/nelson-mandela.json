@@ -1,0 +1,62 @@
+{
+  "name": "Nelson Mandela",
+  "birth": "1918",
+  "death": "2013 (aged 95)",
+  "origin": "South Africa",
+  "role": "Freedom fighter and president",
+  "what_did": "Mandela fought against unfair laws that treated people differently by their skin color.\nHe was put in prison for 27 years.\nAfter being freed, he helped end apartheid and became South Africa’s first black president.",
+  "why_matters": "Mandela showed how forgiveness and courage can heal a country.\nHe helped build a more equal South Africa.\nHe became a symbol of peace and justice around the world.",
+  "questions": [
+    {
+      "q": "Where was Nelson Mandela from?",
+      "options": [
+        "Australia",
+        "South Africa",
+        "Canada",
+        "Brazil"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Why was Mandela in prison?",
+      "options": [
+        "He stole gold",
+        "He fought against unfair laws",
+        "He was lost",
+        "He broke a window"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did Mandela become?",
+      "options": [
+        "A chef",
+        "A teacher",
+        "A president",
+        "A singer"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Mandela fight against?",
+      "options": [
+        "Apartheid",
+        "Math homework",
+        "Dinosaurs",
+        "Books"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "How many years was Mandela in prison?",
+      "options": [
+        "5",
+        "10",
+        "27",
+        "100"
+      ],
+      "answer_index": 2
+    }
+  ],
+  "fun_fact": "Mandela loved boxing and gardening during his time in prison!"
+}

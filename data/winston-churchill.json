@@ -1,0 +1,62 @@
+{
+  "name": "Winston Churchill",
+  "birth": "1874",
+  "death": "1965 (aged 90)",
+  "origin": "England, United Kingdom",
+  "role": "Prime Minister and writer",
+  "what_did": "Churchill led Britain during World War II.\nHe gave powerful speeches that inspired people during hard times.\nHe helped plan the defeat of Nazi Germany and worked to bring peace afterward.",
+  "why_matters": "Churchill stood strong when his country needed him most.\nHe is remembered as a symbol of courage and leadership during war.\nHis words still inspire people today.",
+  "questions": [
+    {
+      "q": "When was Winston Churchill born?",
+      "options": [
+        "1774",
+        "1874",
+        "1974",
+        "1674"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What war did Churchill help lead Britain through?",
+      "options": [
+        "World War I",
+        "The Civil War",
+        "World War II",
+        "The Cold War"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is Churchill known for?",
+      "options": [
+        "Being a scientist",
+        "Writing poetry",
+        "Leading Britain in war",
+        "Climbing mountains"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was Churchill from?",
+      "options": [
+        "Canada",
+        "Germany",
+        "United States",
+        "United Kingdom"
+      ],
+      "answer_index": 3
+    },
+    {
+      "q": "What did Churchill give during the war?",
+      "options": [
+        "Powerful speeches",
+        "Treasure maps",
+        "Cooking lessons",
+        "Magic tricks"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Churchill won the Nobel Prize for Literature in 1953!"
+}

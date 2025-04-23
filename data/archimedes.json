@@ -1,0 +1,62 @@
+{
+  "name": "Archimedes",
+  "birth": "Around 287 BCE",
+  "death": "Around 212 BCE (aged ~75)",
+  "origin": "Syracuse, Greece",
+  "role": "Mathematician and inventor",
+  "what_did": "Archimedes made big discoveries in math, physics, and engineering.\nHe figured out how levers and pulleys work and explained how things float.\nHe shouted 'Eureka!' when he discovered how to measure volume using water.",
+  "why_matters": "Archimedes helped build the foundation of science and engineering.\nHis ideas are still used today in machines, boats, and math problems.\nHe showed that careful thinking could solve real-world puzzles.",
+  "questions": [
+    {
+      "q": "What did Archimedes study?",
+      "options": [
+        "Cooking and dancing",
+        "Math and science",
+        "Art and music",
+        "Maps and geography"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What word did Archimedes shout when he made a discovery?",
+      "options": [
+        "'Wow!'",
+        "'Eureka!'",
+        "'Yes!'",
+        "'Boom!'"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What did he explain about floating?",
+      "options": [
+        "Why birds fly",
+        "Why boats float",
+        "Why stars shine",
+        "Why trees grow"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "Where was Archimedes from?",
+      "options": [
+        "Italy",
+        "Greece",
+        "Egypt",
+        "Persia"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What tool did he use to move heavy things?",
+      "options": [
+        "A lever",
+        "A rope",
+        "A wheel",
+        "A sword"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "Archimedes once designed machines to protect his city from invaders!"
+}

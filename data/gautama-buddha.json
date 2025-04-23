@@ -1,0 +1,62 @@
+{
+  "name": "Gautama Buddha (Siddhartha)",
+  "birth": "Around 563 BCE",
+  "death": "Around 483 BCE (aged ~80)",
+  "origin": "India (Nepal region)",
+  "role": "Spiritual teacher and founder of Buddhism",
+  "what_did": "Siddhartha was a prince who gave up his royal life to search for truth and an end to suffering.\nAfter years of meditation, he reached enlightenment and became the Buddha, meaning 'the awakened one'.\nHe taught the Middle Way — a path of balance and peace.",
+  "why_matters": "The Buddha's teachings formed the basis of Buddhism, a major world religion.\nHe helped people think deeply about suffering, kindness, and inner peace.\nHis ideas have influenced millions for over 2,000 years.",
+  "questions": [
+    {
+      "q": "What does 'Buddha' mean?",
+      "options": [
+        "King",
+        "Warrior",
+        "Awakened one",
+        "Wise man"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What did Siddhartha give up?",
+      "options": [
+        "His crown and rich life",
+        "His friends",
+        "His food",
+        "His books"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What kind of path did the Buddha teach?",
+      "options": [
+        "The Middle Way",
+        "The Hard Path",
+        "The Fast Track",
+        "The Warrior Way"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "Where was the Buddha from?",
+      "options": [
+        "India/Nepal",
+        "China",
+        "Greece",
+        "Japan"
+      ],
+      "answer_index": 0
+    },
+    {
+      "q": "What religion did he start?",
+      "options": [
+        "Hinduism",
+        "Buddhism",
+        "Islam",
+        "Judaism"
+      ],
+      "answer_index": 1
+    }
+  ],
+  "fun_fact": "The Buddha once sat under a tree for days without moving — that's where he became enlightened!"
+}

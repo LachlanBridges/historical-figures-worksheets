@@ -1,0 +1,62 @@
+{
+  "name": "Dame Nellie Melba",
+  "birth": "1861",
+  "death": "1931 (aged 69)",
+  "origin": "Australia",
+  "role": "Opera singer",
+  "what_did": "Dame Nellie Melba was a world-famous singer.\nShe performed in grand opera houses and wowed crowds with her voice.\nShe helped make opera popular in Australia and beyond.",
+  "why_matters": "Melba showed that Australians could shine on the world stage.\nShe became a symbol of talent and elegance.\nEven today, she’s remembered as a musical star.",
+  "questions": [
+    {
+      "q": "What was Nellie Melba’s talent?",
+      "options": [
+        "Painting",
+        "Cooking",
+        "Singing opera",
+        "Writing stories"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Where was she from?",
+      "options": [
+        "France",
+        "Canada",
+        "Australia",
+        "Italy"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "Why did people love Melba?",
+      "options": [
+        "She was funny",
+        "She had a beautiful voice",
+        "She ran fast",
+        "She built opera houses"
+      ],
+      "answer_index": 1
+    },
+    {
+      "q": "What kind of music did she sing?",
+      "options": [
+        "Rock",
+        "Folk",
+        "Opera",
+        "Jazz"
+      ],
+      "answer_index": 2
+    },
+    {
+      "q": "What is named after her?",
+      "options": [
+        "A dessert",
+        "A train",
+        "A planet",
+        "A shoe"
+      ],
+      "answer_index": 0
+    }
+  ],
+  "fun_fact": "The dessert 'Peach Melba' was named after her!"
+}
