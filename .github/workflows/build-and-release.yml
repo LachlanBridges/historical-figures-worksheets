@@ -39,7 +39,7 @@ jobs:
               cp "$pdf" "release_pdfs/$title.pdf"
             fi
           done
-          cp output/pdf/compiled/historical_figures_with_toc.pdf "release_pdfs/Historical Figures (With TOC).pdf"
+          cp output/pdf/compiled/historical_figures_with_toc.pdf "release_pdfs/[ALL] Historical Figures.pdf"
 
       - name: 📤 Upload PDFs
         uses: actions/upload-artifact@v4
@@ -64,8 +64,6 @@ jobs:
         with:
           tag_name: latest
           name: Latest Historical Figures
-          files: |
-            release_pdfs/Historical Figures (With TOC).pdf
-            release_pdfs/*.pdf
+          files: release_pdfs/*.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
