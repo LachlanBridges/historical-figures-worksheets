@@ -64,6 +64,8 @@ jobs:
         with:
           tag_name: latest
           name: Latest Historical Figures
-          files: release_pdfs/*.pdf
+          files: |
+            release_pdfs/Historical Figures (With TOC).pdf
+            release_pdfs/*.pdf
         env:
           GITHUB_TOKEN: ${{ secrets.PERSONAL_TOKEN }}
