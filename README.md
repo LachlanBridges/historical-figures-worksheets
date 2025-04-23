@@ -8,7 +8,7 @@
 
 ## ✨ What It Does
 
-This project creates **simple, child-friendly printable worksheets** about famous historical figures, designed for ages **6–8**. It works great as a basic **reading comprehension** or discussion activity.
+This project creates **simple, child-friendly printable worksheets** about famous historical figures, designed for childrne aged **6–8**. It works great as a basic **reading comprehension** or discussion activity.
 
 Each worksheet includes:
 - A short biography and image
@@ -22,7 +22,7 @@ It also auto-generates a combined PDF with a *clickable table of contents*, maki
 
 ## 🔧 How It Works
 
-1. **Data Files**: Profiles are stored as `.json` files in `data/`, written for children aged 6–8.
+1. **Data Files**: Profiles are stored as `.json` files in `data/`.
 2. **Images**: Downloaded automatically from Wikipedia into `images/`.
 3. **Rendering**: `scripts/main.py` uses a Jinja2 LaTeX template to build individual worksheets.
 4. **Compilation**: PDFs are compiled with `lualatex`.
@@ -33,12 +33,12 @@ It also auto-generates a combined PDF with a *clickable table of contents*, maki
 ## 🗂 Project Structure
 
 ```
-data/               # JSON data for each historical figure
-images/             # Downloaded portrait images
-output/pdf/         # Individual compiled PDFs
-output/pdf/compiled # Merged PDF with table of contents
-scripts/            # Python scripts for building & automation
-templates/          # LaTeX worksheet template (Jinja2)
+data/                   # JSON data for each historical figure
+images/                 # Downloaded portrait images
+output/pdf/             # Individual compiled PDFs
+output/pdf/compiled     # Merged PDF with table of contents
+scripts/                # Python scripts for building & automation
+templates/              # LaTeX worksheet template (Jinja2)
 ```
 
 ---
